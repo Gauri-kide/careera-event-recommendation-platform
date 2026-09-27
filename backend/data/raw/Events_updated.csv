@@ -1,0 +1,1501 @@
+event_id,event_name,type,description,location,college_name,participants
+1,Advanced Hackathons Workshop,Music,Hands-on learning and networking opportunity focused on Hackathons.,Delhi,PICT Pune,939
+2,IoT Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in IoT.",Nagpur,VNIT Nagpur,867
+3,Football Hackathon,Hackathon,"Explore advanced concepts, projects, and future trends in Football.",Nagpur,NIT Trichy,1728
+4,IoT Seminar,Cultural,Join students and professionals for an immersive IoT experience.,Jaipur,RCOEM Nagpur,153
+5,Cybersecurity Seminar,Coding,Hands-on learning and networking opportunity focused on Cybersecurity.,Mumbai,YCCE Nagpur,2857
+6,Hackathons Innovation Summit,Workshop,Competitive and collaborative event exploring innovations in Hackathons.,Hyderabad,COEP Pune,2266
+7,Machine Learning Championship,Workshop,"Explore advanced concepts, projects, and future trends in Machine Learning.",Chennai,IIT Bombay,4622
+8,Music Festival,Hackathon,Hands-on learning and networking opportunity focused on Music.,Delhi,IIT Bombay,475
+9,Cricket Research Talk,Music,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Pune,VIT Pune,2377
+10,Cloud Computing Meetup,Business,Join students and professionals for an immersive Cloud Computing experience.,Hyderabad,YCCE Nagpur,2287
+11,Coding Festival,Seminar,Join students and professionals for an immersive Coding experience.,Delhi,PICT Pune,3886
+12,Startup Research Talk,Music,"Explore advanced concepts, projects, and future trends in Startup.",Hyderabad,VNIT Nagpur,1976
+13,Machine Learning Meetup,Coding,Competitive and collaborative event exploring innovations in Machine Learning.,Pune,YCCE Nagpur,4746
+14,Dance Hackathon,Gaming,Competitive and collaborative event exploring innovations in Dance.,Kolkata,PICT Pune,2269
+15,Robotics Hackathon,Seminar,"Explore advanced concepts, projects, and future trends in Robotics.",Bangalore,BITS Pilani,3609
+16,UI UX Seminar,Music,Hands-on learning and networking opportunity focused on UI UX.,Mumbai,NIT Trichy,4142
+17,Advanced Coding Workshop,Sports,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,VIT Pune,4985
+18,Coding Seminar,Hackathon,Competitive and collaborative event exploring innovations in Coding.,Kolkata,NIT Trichy,2159
+19,Advanced IoT Workshop,Seminar,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Bangalore,COEP Pune,1013
+20,Music Seminar,Cultural,Join students and professionals for an immersive Music experience.,Nagpur,RCOEM Nagpur,4200
+21,Cybersecurity Expo,Coding,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Ahmedabad,BITS Pilani,1729
+22,Robotics Meetup,Seminar,Join students and professionals for an immersive Robotics experience.,Ahmedabad,VNIT Nagpur,2755
+23,Advanced Web Development Workshop,Business,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Bangalore,YCCE Nagpur,574
+24,Cricket Festival,Workshop,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Kolkata,IIT Bombay,4463
+25,Robotics Bootcamp,Seminar,Competitive and collaborative event exploring innovations in Robotics.,Mumbai,RCOEM Nagpur,4422
+26,Entrepreneurship Seminar,Seminar,Join students and professionals for an immersive Entrepreneurship experience.,Delhi,RCOEM Nagpur,3368
+27,Technology Championship,Cultural,"Explore advanced concepts, projects, and future trends in Technology.",Pune,YCCE Nagpur,1940
+28,Coding Meetup,Hackathon,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Ahmedabad,YCCE Nagpur,4920
+29,Advanced Cricket Workshop,Tech,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Delhi,IIT Bombay,357
+30,Dance Innovation Summit,Music,"Explore advanced concepts, projects, and future trends in Dance.",Bangalore,IIT Delhi,1855
+31,IoT Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in IoT.",Kolkata,YCCE Nagpur,3974
+32,Data Science Hackathon,Workshop,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Chennai,COEP Pune,3569
+33,Data Science Championship,Workshop,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Nagpur,VIT Pune,2879
+34,Hackathons Hackathon,Music,Join students and professionals for an immersive Hackathons experience.,Ahmedabad,IIT Delhi,1248
+35,Data Science Bootcamp,Cultural,Hands-on learning and networking opportunity focused on Data Science.,Delhi,IIT Bombay,3730
+36,IoT Innovation Summit,Seminar,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,IIT Bombay,2036
+37,Cybersecurity Seminar,Cultural,Competitive and collaborative event exploring innovations in Cybersecurity.,Delhi,VIT Pune,580
+38,Cybersecurity Seminar,Gaming,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Bangalore,IIT Delhi,2436
+39,Data Science Expo,Sports,Competitive and collaborative event exploring innovations in Data Science.,Delhi,RCOEM Nagpur,1883
+40,Machine Learning Festival,Tech,"Explore advanced concepts, projects, and future trends in Machine Learning.",Hyderabad,VNIT Nagpur,510
+41,UI UX Championship,Seminar,"Explore advanced concepts, projects, and future trends in UI UX.",Mumbai,VNIT Nagpur,4260
+42,Coding Bootcamp,Hackathon,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Pune,YCCE Nagpur,3407
+43,Hackathons Festival,Hackathon,Join students and professionals for an immersive Hackathons experience.,Jaipur,VNIT Nagpur,771
+44,Data Science Festival,Seminar,"Explore advanced concepts, projects, and future trends in Data Science.",Hyderabad,RCOEM Nagpur,1773
+45,Dance Hackathon,Gaming,Hands-on learning and networking opportunity focused on Dance.,Mumbai,RCOEM Nagpur,3845
+46,Dance Innovation Summit,Cultural,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Jaipur,BITS Pilani,919
+47,Coding Expo,Seminar,Join students and professionals for an immersive Coding experience.,Bangalore,PICT Pune,2959
+48,Coding Hackathon,Coding,Hands-on learning and networking opportunity focused on Coding.,Mumbai,IIT Delhi,4550
+49,Music Festival,Tech,"Explore advanced concepts, projects, and future trends in Music.",Ahmedabad,RCOEM Nagpur,948
+50,Robotics Research Talk,Workshop,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Ahmedabad,PICT Pune,2331
+51,Music Festival,Business,Join students and professionals for an immersive Music experience.,Delhi,RCOEM Nagpur,4240
+52,Web Development Research Talk,Workshop,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Chennai,RCOEM Nagpur,461
+53,AI Meetup,Coding,Join students and professionals for an immersive AI experience.,Mumbai,IIT Delhi,4619
+54,Data Science Expo,Workshop,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Pune,PICT Pune,4569
+55,Machine Learning Meetup,Seminar,"Explore advanced concepts, projects, and future trends in Machine Learning.",Mumbai,VIT Pune,1144
+56,Machine Learning Research Talk,Tech,Hands-on learning and networking opportunity focused on Machine Learning.,Hyderabad,YCCE Nagpur,2144
+57,Hackathons Meetup,Gaming,"Explore advanced concepts, projects, and future trends in Hackathons.",Jaipur,PICT Pune,2039
+58,Cybersecurity Bootcamp,Tech,Competitive and collaborative event exploring innovations in Cybersecurity.,Mumbai,COEP Pune,3472
+59,Cricket Research Talk,Workshop,Join students and professionals for an immersive Cricket experience.,Chennai,VNIT Nagpur,3955
+60,Cricket Hackathon,Business,Competitive and collaborative event exploring innovations in Cricket.,Bangalore,YCCE Nagpur,1926
+61,AI Hackathon,Business,Competitive and collaborative event exploring innovations in AI.,Bangalore,IIT Bombay,2386
+62,Technology Expo,Seminar,Competitive and collaborative event exploring innovations in Technology.,Hyderabad,VNIT Nagpur,1044
+63,Gaming Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in Gaming.",Nagpur,IIT Bombay,4987
+64,Data Science Meetup,Gaming,Hands-on learning and networking opportunity focused on Data Science.,Jaipur,NIT Trichy,1047
+65,Startup Festival,Coding,Join students and professionals for an immersive Startup experience.,Nagpur,VIT Pune,113
+66,Blockchain Expo,Business,Join students and professionals for an immersive Blockchain experience.,Chennai,IIT Bombay,2804
+67,Entrepreneurship Meetup,Coding,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Ahmedabad,RCOEM Nagpur,3445
+68,Dance Seminar,Seminar,Hands-on learning and networking opportunity focused on Dance.,Mumbai,YCCE Nagpur,3544
+69,Startup Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Bangalore,VIT Pune,4588
+70,AI Research Talk,Music,Hands-on learning and networking opportunity focused on AI.,Chennai,BITS Pilani,2739
+71,Cloud Computing Championship,Music,Competitive and collaborative event exploring innovations in Cloud Computing.,Ahmedabad,IIT Delhi,1490
+72,Coding Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Coding.",Hyderabad,IIT Bombay,2024
+73,Music Hackathon,Sports,Join students and professionals for an immersive Music experience.,Nagpur,VNIT Nagpur,2105
+74,Web Development Festival,Cultural,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Chennai,BITS Pilani,1692
+75,Startup Championship,Music,Competitive and collaborative event exploring innovations in Startup.,Mumbai,VNIT Nagpur,973
+76,Data Science Hackathon,Seminar,Join students and professionals for an immersive Data Science experience.,Kolkata,VNIT Nagpur,4666
+77,Cricket Innovation Summit,Sports,Competitive and collaborative event exploring innovations in Cricket.,Kolkata,NIT Trichy,4678
+78,Entrepreneurship Meetup,Hackathon,Competitive and collaborative event exploring innovations in Entrepreneurship.,Ahmedabad,VIT Pune,4588
+79,Cloud Computing Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Cloud Computing.,Bangalore,YCCE Nagpur,2371
+80,Blockchain Championship,Coding,Join students and professionals for an immersive Blockchain experience.,Kolkata,IIT Bombay,2440
+81,Cricket Research Talk,Business,Hands-on learning and networking opportunity focused on Cricket.,Ahmedabad,IIT Bombay,1233
+82,Robotics Hackathon,Sports,Competitive and collaborative event exploring innovations in Robotics.,Delhi,IIT Bombay,3498
+83,Data Science Meetup,Cultural,"Explore advanced concepts, projects, and future trends in Data Science.",Chennai,VNIT Nagpur,1794
+84,Data Science Seminar,Tech,"Explore advanced concepts, projects, and future trends in Data Science.",Jaipur,VIT Pune,4007
+85,AI Meetup,Gaming,Hands-on learning and networking opportunity focused on AI.,Chennai,NIT Trichy,4573
+86,Entrepreneurship Hackathon,Music,Competitive and collaborative event exploring innovations in Entrepreneurship.,Bangalore,VIT Pune,4078
+87,AI Seminar,Gaming,Hands-on learning and networking opportunity focused on AI.,Mumbai,IIT Delhi,1145
+88,Entrepreneurship Expo,Gaming,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Jaipur,BITS Pilani,322
+89,Coding Seminar,Cultural,Join students and professionals for an immersive Coding experience.,Mumbai,VNIT Nagpur,2231
+90,Startup Meetup,Cultural,Join students and professionals for an immersive Startup experience.,Hyderabad,COEP Pune,3205
+91,Gaming Seminar,Workshop,Hands-on learning and networking opportunity focused on Gaming.,Kolkata,VNIT Nagpur,4518
+92,Machine Learning Meetup,Workshop,Join students and professionals for an immersive Machine Learning experience.,Nagpur,VNIT Nagpur,2125
+93,Advanced Football Workshop,Sports,"Explore advanced concepts, projects, and future trends in Football.",Delhi,PICT Pune,3979
+94,Hackathons Festival,Cultural,Join students and professionals for an immersive Hackathons experience.,Bangalore,COEP Pune,1474
+95,Entrepreneurship Festival,Sports,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Bangalore,IIT Bombay,4840
+96,AI Research Talk,Gaming,"Explore advanced concepts, projects, and future trends in AI.",Chennai,YCCE Nagpur,722
+97,UI UX Hackathon,Coding,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Jaipur,IIT Bombay,4736
+98,Machine Learning Meetup,Gaming,"Explore advanced concepts, projects, and future trends in Machine Learning.",Hyderabad,IIT Bombay,4244
+99,Advanced Dance Workshop,Cultural,Competitive and collaborative event exploring innovations in Dance.,Pune,VIT Pune,3067
+100,Cloud Computing Bootcamp,Sports,Competitive and collaborative event exploring innovations in Cloud Computing.,Ahmedabad,RCOEM Nagpur,4508
+101,Web Development Championship,Hackathon,Competitive and collaborative event exploring innovations in Web Development.,Bangalore,COEP Pune,2111
+102,Coding Research Talk,Music,Competitive and collaborative event exploring innovations in Coding.,Kolkata,BITS Pilani,3204
+103,Advanced Dance Workshop,Business,Competitive and collaborative event exploring innovations in Dance.,Mumbai,IIT Delhi,1837
+104,Technology Research Talk,Coding,Hands-on learning and networking opportunity focused on Technology.,Jaipur,RCOEM Nagpur,4653
+105,AI Expo,Workshop,Join students and professionals for an immersive AI experience.,Delhi,VIT Pune,4102
+106,IoT Hackathon,Cultural,Competitive and collaborative event exploring innovations in IoT.,Kolkata,VNIT Nagpur,862
+107,Music Hackathon,Music,Competitive and collaborative event exploring innovations in Music.,Bangalore,BITS Pilani,3123
+108,Web Development Expo,Business,"Explore advanced concepts, projects, and future trends in Web Development.",Chennai,NIT Trichy,2809
+109,Technology Championship,Coding,Hands-on learning and networking opportunity focused on Technology.,Bangalore,YCCE Nagpur,1088
+110,Football Meetup,Seminar,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Mumbai,YCCE Nagpur,1872
+111,Web Development Research Talk,Seminar,"Explore advanced concepts, projects, and future trends in Web Development.",Jaipur,RCOEM Nagpur,923
+112,Football Research Talk,Business,Join students and professionals for an immersive Football experience.,Mumbai,RCOEM Nagpur,215
+113,IoT Bootcamp,Tech,Hands-on learning and networking opportunity focused on IoT.,Nagpur,NIT Trichy,2493
+114,Robotics Championship,Tech,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Jaipur,RCOEM Nagpur,3945
+115,Web Development Championship,Sports,Hands-on learning and networking opportunity focused on Web Development.,Nagpur,RCOEM Nagpur,4013
+116,Hackathons Innovation Summit,Cultural,Competitive and collaborative event exploring innovations in Hackathons.,Pune,BITS Pilani,539
+117,Robotics Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in Robotics.",Pune,YCCE Nagpur,1070
+118,IoT Seminar,Hackathon,"Explore advanced concepts, projects, and future trends in IoT.",Jaipur,YCCE Nagpur,4380
+119,Startup Championship,Coding,Competitive and collaborative event exploring innovations in Startup.,Jaipur,VIT Pune,2601
+120,UI UX Festival,Hackathon,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Pune,YCCE Nagpur,1828
+121,Gaming Innovation Summit,Music,Join students and professionals for an immersive Gaming experience.,Mumbai,NIT Trichy,714
+122,Advanced Cybersecurity Workshop,Cultural,Competitive and collaborative event exploring innovations in Cybersecurity.,Jaipur,IIT Delhi,2485
+123,Machine Learning Hackathon,Coding,Hands-on learning and networking opportunity focused on Machine Learning.,Kolkata,IIT Bombay,2012
+124,Gaming Festival,Gaming,Join students and professionals for an immersive Gaming experience.,Pune,NIT Trichy,1941
+125,Robotics Research Talk,Workshop,Join students and professionals for an immersive Robotics experience.,Nagpur,PICT Pune,2619
+126,Entrepreneurship Festival,Cultural,Hands-on learning and networking opportunity focused on Entrepreneurship.,Pune,IIT Delhi,2591
+127,Startup Research Talk,Seminar,"Explore advanced concepts, projects, and future trends in Startup.",Kolkata,IIT Delhi,758
+128,Advanced Entrepreneurship Workshop,Business,Competitive and collaborative event exploring innovations in Entrepreneurship.,Jaipur,RCOEM Nagpur,311
+129,Coding Hackathon,Hackathon,"Explore advanced concepts, projects, and future trends in Coding.",Nagpur,RCOEM Nagpur,4820
+130,Machine Learning Bootcamp,Seminar,Competitive and collaborative event exploring innovations in Machine Learning.,Kolkata,RCOEM Nagpur,1586
+131,UI UX Seminar,Workshop,Competitive and collaborative event exploring innovations in UI UX.,Kolkata,COEP Pune,3445
+132,Dance Meetup,Sports,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Hyderabad,VIT Pune,4158
+133,Music Seminar,Tech,"Explore advanced concepts, projects, and future trends in Music.",Kolkata,IIT Bombay,2676
+134,Gaming Meetup,Gaming,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Ahmedabad,VNIT Nagpur,4544
+135,Cloud Computing Seminar,Music,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Ahmedabad,COEP Pune,4183
+136,Advanced Cloud Computing Workshop,Coding,Join students and professionals for an immersive Cloud Computing experience.,Ahmedabad,PICT Pune,2459
+137,Cloud Computing Championship,Tech,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,1397
+138,Music Expo,Seminar,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Chennai,IIT Bombay,1940
+139,Hackathons Championship,Sports,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Kolkata,RCOEM Nagpur,4268
+140,Gaming Seminar,Cultural,Competitive and collaborative event exploring innovations in Gaming.,Delhi,IIT Delhi,4615
+141,Robotics Seminar,Hackathon,Join students and professionals for an immersive Robotics experience.,Ahmedabad,PICT Pune,671
+142,Gaming Seminar,Seminar,Hands-on learning and networking opportunity focused on Gaming.,Bangalore,VNIT Nagpur,2417
+143,Music Festival,Cultural,"Explore advanced concepts, projects, and future trends in Music.",Mumbai,IIT Delhi,4512
+144,Web Development Meetup,Seminar,Hands-on learning and networking opportunity focused on Web Development.,Ahmedabad,VIT Pune,3830
+145,Dance Hackathon,Hackathon,Join students and professionals for an immersive Dance experience.,Chennai,YCCE Nagpur,3465
+146,Machine Learning Meetup,Gaming,Competitive and collaborative event exploring innovations in Machine Learning.,Chennai,PICT Pune,4157
+147,Machine Learning Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in Machine Learning.",Hyderabad,IIT Bombay,3706
+148,Hackathons Expo,Tech,Competitive and collaborative event exploring innovations in Hackathons.,Mumbai,VIT Pune,1364
+149,Coding Championship,Business,Hands-on learning and networking opportunity focused on Coding.,Jaipur,VIT Pune,757
+150,Dance Expo,Business,Competitive and collaborative event exploring innovations in Dance.,Kolkata,NIT Trichy,394
+151,Entrepreneurship Innovation Summit,Coding,Join students and professionals for an immersive Entrepreneurship experience.,Delhi,IIT Bombay,3655
+152,Hackathons Innovation Summit,Sports,Competitive and collaborative event exploring innovations in Hackathons.,Bangalore,VNIT Nagpur,476
+153,Advanced Dance Workshop,Business,Hands-on learning and networking opportunity focused on Dance.,Hyderabad,VIT Pune,1292
+154,Cricket Expo,Hackathon,Competitive and collaborative event exploring innovations in Cricket.,Mumbai,PICT Pune,1534
+155,Coding Festival,Hackathon,Competitive and collaborative event exploring innovations in Coding.,Delhi,IIT Delhi,4877
+156,Robotics Hackathon,Coding,Competitive and collaborative event exploring innovations in Robotics.,Kolkata,RCOEM Nagpur,176
+157,Cloud Computing Research Talk,Sports,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Pune,IIT Delhi,2930
+158,UI UX Research Talk,Coding,Competitive and collaborative event exploring innovations in UI UX.,Kolkata,RCOEM Nagpur,1731
+159,Startup Championship,Music,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Chennai,BITS Pilani,3040
+160,UI UX Research Talk,Tech,Hands-on learning and networking opportunity focused on UI UX.,Chennai,RCOEM Nagpur,166
+161,Advanced UI UX Workshop,Cultural,"Explore advanced concepts, projects, and future trends in UI UX.",Bangalore,YCCE Nagpur,2986
+162,Cricket Hackathon,Coding,"Explore advanced concepts, projects, and future trends in Cricket.",Mumbai,IIT Bombay,422
+163,Music Championship,Hackathon,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Hyderabad,PICT Pune,838
+164,Music Meetup,Sports,Competitive and collaborative event exploring innovations in Music.,Delhi,PICT Pune,4518
+165,Technology Expo,Coding,"Explore advanced concepts, projects, and future trends in Technology.",Mumbai,RCOEM Nagpur,4047
+166,Music Meetup,Cultural,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Pune,PICT Pune,1948
+167,Startup Expo,Workshop,Hands-on learning and networking opportunity focused on Startup.,Chennai,VNIT Nagpur,2266
+168,IoT Innovation Summit,Business,Competitive and collaborative event exploring innovations in IoT.,Bangalore,BITS Pilani,3221
+169,Technology Innovation Summit,Cultural,Join students and professionals for an immersive Technology experience.,Nagpur,BITS Pilani,4699
+170,Dance Festival,Workshop,Join students and professionals for an immersive Dance experience.,Kolkata,RCOEM Nagpur,3444
+171,Hackathons Bootcamp,Tech,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Bangalore,IIT Delhi,1051
+172,Hackathons Hackathon,Sports,"Explore advanced concepts, projects, and future trends in Hackathons.",Chennai,IIT Delhi,3139
+173,IoT Seminar,Sports,"Explore advanced concepts, projects, and future trends in IoT.",Chennai,IIT Bombay,4108
+174,Entrepreneurship Seminar,Tech,Hands-on learning and networking opportunity focused on Entrepreneurship.,Hyderabad,YCCE Nagpur,3732
+175,Cloud Computing Hackathon,Workshop,Hands-on learning and networking opportunity focused on Cloud Computing.,Hyderabad,NIT Trichy,3038
+176,Machine Learning Seminar,Music,Hands-on learning and networking opportunity focused on Machine Learning.,Pune,IIT Delhi,850
+177,Football Festival,Tech,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,1131
+178,UI UX Hackathon,Seminar,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Delhi,BITS Pilani,1869
+179,Cricket Meetup,Hackathon,Join students and professionals for an immersive Cricket experience.,Nagpur,RCOEM Nagpur,1285
+180,Robotics Expo,Sports,Hands-on learning and networking opportunity focused on Robotics.,Pune,VNIT Nagpur,1179
+181,AI Meetup,Hackathon,Join students and professionals for an immersive AI experience.,Hyderabad,VNIT Nagpur,1527
+182,Advanced Gaming Workshop,Gaming,Join students and professionals for an immersive Gaming experience.,Ahmedabad,IIT Bombay,620
+183,Web Development Championship,Seminar,Hands-on learning and networking opportunity focused on Web Development.,Jaipur,IIT Bombay,3802
+184,Blockchain Hackathon,Tech,"Explore advanced concepts, projects, and future trends in Blockchain.",Ahmedabad,RCOEM Nagpur,3852
+185,Advanced AI Workshop,Gaming,Competitive and collaborative event exploring innovations in AI.,Chennai,IIT Bombay,4116
+186,Cloud Computing Innovation Summit,Business,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Jaipur,PICT Pune,638
+187,Robotics Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Robotics.",Ahmedabad,COEP Pune,3220
+188,Entrepreneurship Expo,Cultural,Hands-on learning and networking opportunity focused on Entrepreneurship.,Ahmedabad,BITS Pilani,3624
+189,Hackathons Innovation Summit,Music,"Explore advanced concepts, projects, and future trends in Hackathons.",Chennai,IIT Delhi,1971
+190,Data Science Meetup,Gaming,Competitive and collaborative event exploring innovations in Data Science.,Chennai,IIT Bombay,2660
+191,Data Science Meetup,Business,Hands-on learning and networking opportunity focused on Data Science.,Mumbai,IIT Delhi,649
+192,Coding Innovation Summit,Gaming,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Pune,COEP Pune,1165
+193,Advanced IoT Workshop,Seminar,"Explore advanced concepts, projects, and future trends in IoT.",Ahmedabad,COEP Pune,1101
+194,Data Science Meetup,Tech,Competitive and collaborative event exploring innovations in Data Science.,Bangalore,BITS Pilani,2659
+195,Technology Innovation Summit,Seminar,"Explore advanced concepts, projects, and future trends in Technology.",Delhi,PICT Pune,4050
+196,Cricket Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on Cricket.,Hyderabad,IIT Bombay,2382
+197,UI UX Hackathon,Seminar,Competitive and collaborative event exploring innovations in UI UX.,Jaipur,BITS Pilani,4660
+198,AI Festival,Tech,Hands-on learning and networking opportunity focused on AI.,Mumbai,RCOEM Nagpur,2631
+199,Dance Meetup,Sports,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Mumbai,BITS Pilani,3383
+200,Coding Bootcamp,Workshop,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Ahmedabad,YCCE Nagpur,3181
+201,Data Science Championship,Sports,Hands-on learning and networking opportunity focused on Data Science.,Hyderabad,RCOEM Nagpur,2757
+202,UI UX Festival,Tech,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Mumbai,PICT Pune,507
+203,Coding Research Talk,Gaming,Competitive and collaborative event exploring innovations in Coding.,Kolkata,BITS Pilani,3721
+204,Data Science Research Talk,Seminar,Join students and professionals for an immersive Data Science experience.,Pune,COEP Pune,3621
+205,Hackathons Research Talk,Cultural,"Explore advanced concepts, projects, and future trends in Hackathons.",Ahmedabad,RCOEM Nagpur,472
+206,Cricket Seminar,Tech,"Explore advanced concepts, projects, and future trends in Cricket.",Nagpur,YCCE Nagpur,2569
+207,Football Bootcamp,Coding,Hands-on learning and networking opportunity focused on Football.,Hyderabad,IIT Bombay,163
+208,Web Development Seminar,Sports,Join students and professionals for an immersive Web Development experience.,Chennai,NIT Trichy,1985
+209,Blockchain Expo,Workshop,Hands-on learning and networking opportunity focused on Blockchain.,Chennai,VNIT Nagpur,3673
+210,AI Championship,Business,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Jaipur,VIT Pune,4797
+211,Startup Seminar,Workshop,Hands-on learning and networking opportunity focused on Startup.,Chennai,VNIT Nagpur,2760
+212,Cybersecurity Festival,Business,Competitive and collaborative event exploring innovations in Cybersecurity.,Pune,VIT Pune,967
+213,Cricket Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Cricket.",Ahmedabad,IIT Bombay,3342
+214,Music Meetup,Business,Join students and professionals for an immersive Music experience.,Mumbai,IIT Bombay,4281
+215,Hackathons Expo,Music,"Explore advanced concepts, projects, and future trends in Hackathons.",Hyderabad,COEP Pune,1309
+216,Cricket Innovation Summit,Coding,Join students and professionals for an immersive Cricket experience.,Delhi,PICT Pune,1352
+217,Coding Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Coding.,Jaipur,BITS Pilani,3777
+218,UI UX Festival,Business,Hands-on learning and networking opportunity focused on UI UX.,Mumbai,IIT Delhi,659
+219,Web Development Chamname spacepionship,Coding,Hands-on learning and networking opportunity focused on Web Development.,Jaipur,VNIT Nagpur,2983
+220,Blockchain Innovation Summit,Cultural,Hands-on learning and networking opportunity focused on Blockchain.,Kolkata,VNIT Nagpur,566
+221,Technology Research Talk,Workshop,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Jaipur,BITS Pilani,4253
+222,Startup Championship,Seminar,"Explore advanced concepts, projects, and future trends in Startup.",Nagpur,IIT Delhi,4783
+223,Football Meetup,Cultural,"Explore advanced concepts, projects, and future trends in Football.",Ahmedabad,PICT Pune,606
+224,Cloud Computing Innovation Summit,Workshop,Hands-on learning and networking opportunity focused on Cloud Computing.,Ahmedabad,PICT Pune,420
+225,Cricket Championship,Seminar,Competitive and collaborative event exploring innovations in Cricket.,Ahmedabad,BITS Pilani,1400
+226,Technology Meetup,Gaming,Hands-on learning and networking opportunity focused on Technology.,Chennai,COEP Pune,4997
+227,Machine Learning Meetup,Business,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Pune,NIT Trichy,3266
+228,Music Research Talk,Sports,"Explore advanced concepts, projects, and future trends in Music.",Hyderabad,IIT Bombay,4873
+229,Robotics Meetup,Gaming,Hands-on learning and networking opportunity focused on Robotics.,Mumbai,BITS Pilani,794
+230,Music Expo,Business,Competitive and collaborative event exploring innovations in Music.,Mumbai,NIT Trichy,865
+231,Data Science Expo,Tech,Hands-on learning and networking opportunity focused on Data Science.,Hyderabad,RCOEM Nagpur,1576
+232,Football Meetup,Music,Competitive and collaborative event exploring innovations in Football.,Delhi,PICT Pune,1369
+233,Coding Research Talk,Seminar,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Ahmedabad,NIT Trichy,409
+234,Dance Festival,Hackathon,Join students and professionals for an immersive Dance experience.,Chennai,PICT Pune,1429
+235,Cybersecurity Festival,Cultural,Join students and professionals for an immersive Cybersecurity experience.,Nagpur,VIT Pune,3084
+236,Cricket Championship,Coding,"Explore advanced concepts, projects, and future trends in Cricket.",Kolkata,YCCE Nagpur,4474
+237,Cricket Research Talk,Music,Competitive and collaborative event exploring innovations in Cricket.,Hyderabad,BITS Pilani,3709
+238,Cloud Computing Research Talk,Seminar,Competitive and collaborative event exploring innovations in Cloud Computing.,Ahmedabad,VIT Pune,1427
+239,Football Festival,Coding,Join students and professionals for an immersive Football experience.,Nagpur,IIT Delhi,3140
+240,IoT Innovation Summit,Workshop,"Explore advanced concepts, projects, and future trends in IoT.",Bangalore,IIT Bombay,1413
+241,Gaming Championship,Sports,"Explore advanced concepts, projects, and future trends in Gaming.",Chennai,IIT Bombay,1918
+242,Cloud Computing Meetup,Gaming,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Nagpur,VIT Pune,4212
+243,Technology Hackathon,Workshop,Competitive and collaborative event exploring innovations in Technology.,Hyderabad,YCCE Nagpur,330
+244,Dance Innovation Summit,Sports,Hands-on learning and networking opportunity focused on Dance.,Mumbai,VNIT Nagpur,2450
+245,Web Development Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Jaipur,VNIT Nagpur,749
+246,AI Research Talk,Sports,Join students and professionals for an immersive AI experience.,Ahmedabad,BITS Pilani,4423
+247,Data Science Innovation Summit,Music,Hands-on learning and networking opportunity focused on Data Science.,Bangalore,IIT Bombay,491
+248,Cricket Seminar,Cultural,"Explore advanced concepts, projects, and future trends in Cricket.",Pune,IIT Bombay,4194
+249,Entrepreneurship Expo,Seminar,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,1276
+250,Music Seminar,Hackathon,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,4774
+251,Data Science Bootcamp,Seminar,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Hyderabad,IIT Bombay,4409
+252,IoT Expo,Seminar,"Explore advanced concepts, projects, and future trends in IoT.",Nagpur,VIT Pune,3951
+253,Machine Learning Seminar,Coding,Hands-on learning and networking opportunity focused on Machine Learning.,Nagpur,COEP Pune,653
+254,Technology Hackathon,Hackathon,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Hyderabad,PICT Pune,463
+255,Technology Expo,Sports,Hands-on learning and networking opportunity focused on Technology.,Kolkata,IIT Delhi,1593
+256,Robotics Innovation Summit,Tech,Competitive and collaborative event exploring innovations in Robotics.,Bangalore,YCCE Nagpur,458
+257,Advanced Football Workshop,Coding,Hands-on learning and networking opportunity focused on Football.,Ahmedabad,VIT Pune,4548
+258,Web Development Research Talk,Music,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Bangalore,COEP Pune,491
+259,Dance Research Talk,Business,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Chennai,VIT Pune,3702
+260,Startup Meetup,Cultural,Join students and professionals for an immersive Startup experience.,Kolkata,COEP Pune,4353
+261,Gaming Innovation Summit,Workshop,Competitive and collaborative event exploring innovations in Gaming.,Chennai,BITS Pilani,1578
+262,IoT Research Talk,Workshop,Hands-on learning and networking opportunity focused on IoT.,Pune,COEP Pune,2521
+263,Music Championship,Gaming,"Explore advanced concepts, projects, and future trends in Music.",Mumbai,IIT Delhi,2979
+264,Advanced Cloud Computing Workshop,Hackathon,Hands-on learning and networking opportunity focused on Cloud Computing.,Chennai,RCOEM Nagpur,569
+265,Coding Seminar,Seminar,Hands-on learning and networking opportunity focused on Coding.,Mumbai,VNIT Nagpur,1269
+266,Entrepreneurship Championship,Sports,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Pune,YCCE Nagpur,3100
+267,Technology Seminar,Tech,"Explore advanced concepts, projects, and future trends in Technology.",Jaipur,PICT Pune,3785
+268,Technology Meetup,Workshop,Competitive and collaborative event exploring innovations in Technology.,Jaipur,PICT Pune,4437
+269,Technology Seminar,Coding,Hands-on learning and networking opportunity focused on Technology.,Delhi,IIT Bombay,312
+270,Cybersecurity Championship,Gaming,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Ahmedabad,IIT Bombay,2244
+271,Gaming Championship,Hackathon,Join students and professionals for an immersive Gaming experience.,Bangalore,IIT Delhi,1739
+272,Hackathons Bootcamp,Cultural,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Mumbai,IIT Delhi,819
+273,Dance Meetup,Seminar,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Ahmedabad,RCOEM Nagpur,2557
+274,Cybersecurity Bootcamp,Seminar,Hands-on learning and networking opportunity focused on Cybersecurity.,Delhi,IIT Bombay,1746
+275,Robotics Hackathon,Tech,Competitive and collaborative event exploring innovations in Robotics.,Hyderabad,NIT Trichy,4788
+276,Technology Championship,Sports,"Explore advanced concepts, projects, and future trends in Technology.",Jaipur,IIT Bombay,638
+277,Music Seminar,Seminar,Competitive and collaborative event exploring innovations in Music.,Chennai,VIT Pune,4809
+278,Coding Bootcamp,Workshop,Hands-on learning and networking opportunity focused on Coding.,Kolkata,IIT Delhi,4338
+279,Technology Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in Technology.",Mumbai,PICT Pune,3644
+280,Advanced Blockchain Workshop,Seminar,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Mumbai,RCOEM Nagpur,1448
+281,Cybersecurity Meetup,Business,Join students and professionals for an immersive Cybersecurity experience.,Ahmedabad,RCOEM Nagpur,746
+282,Gaming Hackathon,Coding,"Explore advanced concepts, projects, and future trends in Gaming.",Mumbai,RCOEM Nagpur,4470
+283,Coding Expo,Hackathon,Join students and professionals for an immersive Coding experience.,Jaipur,PICT Pune,1502
+284,Entrepreneurship Festival,Hackathon,Hands-on learning and networking opportunity focused on Entrepreneurship.,Nagpur,VNIT Nagpur,765
+285,Machine Learning Festival,Music,Hands-on learning and networking opportunity focused on Machine Learning.,Jaipur,VIT Pune,348
+286,Web Development Expo,Coding,Hands-on learning and networking opportunity focused on Web Development.,Kolkata,YCCE Nagpur,3426
+287,Music Championship,Tech,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Mumbai,IIT Delhi,3504
+288,Web Development Championship,Business,Join students and professionals for an immersive Web Development experience.,Jaipur,PICT Pune,2660
+289,Dance Meetup,Sports,Competitive and collaborative event exploring innovations in Dance.,Hyderabad,NIT Trichy,4701
+290,Hackathons Meetup,Cultural,Join students and professionals for an immersive Hackathons experience.,Pune,RCOEM Nagpur,3783
+291,Cricket Bootcamp,Tech,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Bangalore,VIT Pune,3525
+292,Cricket Bootcamp,Hackathon,Hands-on learning and networking opportunity focused on Cricket.,Hyderabad,YCCE Nagpur,1405
+293,Web Development Expo,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Bangalore,IIT Delhi,289
+294,Coding Seminar,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Delhi,YCCE Nagpur,4878
+295,Advanced Technology Workshop,Coding,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Kolkata,BITS Pilani,3955
+296,Music Expo,Workshop,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Chennai,PICT Pune,2266
+297,Technology Seminar,Tech,Hands-on learning and networking opportunity focused on Technology.,Chennai,VNIT Nagpur,4771
+298,IoT Hackathon,Seminar,Hands-on learning and networking opportunity focused on IoT.,Bangalore,IIT Bombay,3264
+299,Blockchain Championship,Coding,"Explore advanced concepts, projects, and future trends in Blockchain.",Jaipur,BITS Pilani,1073
+300,Robotics Innovation Summit,Business,Competitive and collaborative event exploring innovations in Robotics.,Hyderabad,NIT Trichy,3095
+301,Robotics Hackathon,Seminar,"Explore advanced concepts, projects, and future trends in Robotics.",Chennai,NIT Trichy,429
+302,Advanced Machine Learning Workshop,Business,Join students and professionals for an immersive Machine Learning experience.,Kolkata,NIT Trichy,3843
+303,Robotics Festival,Sports,"Explore advanced concepts, projects, and future trends in Robotics.",Hyderabad,BITS Pilani,2709
+304,Cybersecurity Seminar,Coding,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Jaipur,COEP Pune,4255
+305,Blockchain Expo,Hackathon,Competitive and collaborative event exploring innovations in Blockchain.,Bangalore,IIT Delhi,236
+306,Technology Meetup,Gaming,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Jaipur,RCOEM Nagpur,318
+307,Entrepreneurship Championship,Hackathon,Hands-on learning and networking opportunity focused on Entrepreneurship.,Jaipur,YCCE Nagpur,520
+308,UI UX Championship,Seminar,Join students and professionals for an immersive UI UX experience.,Jaipur,VIT Pune,1310
+309,Advanced Cricket Workshop,Workshop,"Explore advanced concepts, projects, and future trends in Cricket.",Delhi,VNIT Nagpur,3712
+310,Dance Seminar,Gaming,Join students and professionals for an immersive Dance experience.,Delhi,VIT Pune,4210
+311,Entrepreneurship Championship,Sports,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Ahmedabad,YCCE Nagpur,4694
+312,Dance Championship,Gaming,"Explore advanced concepts, projects, and future trends in Dance.",Hyderabad,PICT Pune,3865
+313,IoT Meetup,Business,"Explore advanced concepts, projects, and future trends in IoT.",Bangalore,BITS Pilani,4066
+314,Football Hackathon,Seminar,Hands-on learning and networking opportunity focused on Football.,Bangalore,YCCE Nagpur,2538
+315,Music Hackathon,Business,Competitive and collaborative event exploring innovations in Music.,Kolkata,COEP Pune,4691
+316,Gaming Research Talk,Hackathon,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Ahmedabad,VIT Pune,3332
+317,Technology Bootcamp,Tech,Hands-on learning and networking opportunity focused on Technology.,Bangalore,IIT Bombay,2937
+318,Cloud Computing Research Talk,Music,Competitive and collaborative event exploring innovations in Cloud Computing.,Delhi,NIT Trichy,2321
+319,IoT Research Talk,Workshop,Join students and professionals for an immersive IoT experience.,Jaipur,BITS Pilani,2060
+320,Advanced Cricket Workshop,Music,"Explore advanced concepts, projects, and future trends in Cricket.",Delhi,VNIT Nagpur,920
+321,Data Science Meetup,Workshop,Competitive and collaborative event exploring innovations in Data Science.,Mumbai,VNIT Nagpur,4608
+322,Cybersecurity Seminar,Cultural,Competitive and collaborative event exploring innovations in Cybersecurity.,Delhi,RCOEM Nagpur,2731
+323,Advanced Music Workshop,Hackathon,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Delhi,NIT Trichy,405
+324,Cybersecurity Seminar,Tech,Join students and professionals for an immersive Cybersecurity experience.,Chennai,IIT Delhi,1626
+325,Advanced Music Workshop,Coding,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Jaipur,BITS Pilani,979
+326,Dance Research Talk,Seminar,Competitive and collaborative event exploring innovations in Dance.,Ahmedabad,IIT Delhi,1199
+327,Blockchain Championship,Music,Hands-on learning and networking opportunity focused on Blockchain.,Pune,COEP Pune,1431
+328,Cloud Computing Research Talk,Tech,Join students and professionals for an immersive Cloud Computing experience.,Hyderabad,RCOEM Nagpur,4751
+329,Football Bootcamp,Gaming,"Explore advanced concepts, projects, and future trends in Football.",Chennai,NIT Trichy,2786
+330,Coding Seminar,Sports,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,IIT Delhi,2750
+331,Advanced Cricket Workshop,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Delhi,IIT Delhi,2287
+332,Dance Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Dance.",Nagpur,RCOEM Nagpur,3045
+333,Advanced Cricket Workshop,Cultural,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Bangalore,PICT Pune,3421
+334,Blockchain Research Talk,Coding,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Hyderabad,BITS Pilani,1909
+335,Cricket Bootcamp,Sports,Competitive and collaborative event exploring innovations in Cricket.,Kolkata,BITS Pilani,3160
+336,Data Science Expo,Seminar,Competitive and collaborative event exploring innovations in Data Science.,Delhi,YCCE Nagpur,4980
+337,Coding Expo,Seminar,Competitive and collaborative event exploring innovations in Coding.,Hyderabad,IIT Bombay,4721
+338,Advanced Hackathons Workshop,Seminar,"Explore advanced concepts, projects, and future trends in Hackathons.",Delhi,BITS Pilani,4496
+339,Robotics Bootcamp,Seminar,Hands-on learning and networking opportunity focused on Robotics.,Kolkata,IIT Bombay,1782
+340,UI UX Championship,Seminar,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Kolkata,VNIT Nagpur,3814
+341,Robotics Expo,Cultural,Competitive and collaborative event exploring innovations in Robotics.,Jaipur,VNIT Nagpur,4677
+342,Cloud Computing Research Talk,Gaming,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Bangalore,VNIT Nagpur,1885
+343,UI UX Innovation Summit,Gaming,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Hyderabad,IIT Bombay,4533
+344,Machine Learning Innovation Summit,Tech,Competitive and collaborative event exploring innovations in Machine Learning.,Bangalore,VIT Pune,1574
+345,Robotics Seminar,Gaming,Hands-on learning and networking opportunity focused on Robotics.,Kolkata,VIT Pune,3177
+346,Coding Expo,Business,Join students and professionals for an immersive Coding experience.,Pune,PICT Pune,4501
+347,Startup Expo,Music,Join students and professionals for an immersive Startup experience.,Nagpur,VNIT Nagpur,2544
+348,Cloud Computing Expo,Seminar,Competitive and collaborative event exploring innovations in Cloud Computing.,Chennai,YCCE Nagpur,2127
+349,Cloud Computing Meetup,Coding,Join students and professionals for an immersive Cloud Computing experience.,Delhi,IIT Bombay,363
+350,Data Science Festival,Music,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Delhi,IIT Bombay,926
+351,Advanced Entrepreneurship Workshop,Hackathon,Competitive and collaborative event exploring innovations in Entrepreneurship.,Nagpur,YCCE Nagpur,462
+352,Startup Championship,Seminar,Join students and professionals for an immersive Startup experience.,Delhi,VNIT Nagpur,1247
+353,Blockchain Research Talk,Hackathon,Join students and professionals for an immersive Blockchain experience.,Hyderabad,BITS Pilani,4998
+354,Dance Hackathon,Sports,Hands-on learning and networking opportunity focused on Dance.,Ahmedabad,YCCE Nagpur,3487
+355,Music Research Talk,Seminar,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Jaipur,PICT Pune,3599
+356,IoT Championship,Business,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Chennai,NIT Trichy,2711
+357,Data Science Seminar,Coding,Join students and professionals for an immersive Data Science experience.,Chennai,PICT Pune,4506
+358,Web Development Hackathon,Coding,Join students and professionals for an immersive Web Development experience.,Mumbai,IIT Delhi,572
+359,IoT Seminar,Seminar,Competitive and collaborative event exploring innovations in IoT.,Ahmedabad,PICT Pune,3281
+360,Cricket Research Talk,Business,Join students and professionals for an immersive Cricket experience.,Pune,IIT Delhi,3139
+361,Coding Expo,Tech,Join students and professionals for an immersive Coding experience.,Bangalore,VIT Pune,423
+362,Coding Hackathon,Seminar,"Explore advanced concepts, projects, and future trends in Coding.",Delhi,IIT Delhi,1811
+363,Dance Research Talk,Music,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Delhi,IIT Bombay,4023
+364,Cricket Festival,Gaming,Join students and professionals for an immersive Cricket experience.,Delhi,NIT Trichy,2734
+365,Music Seminar,Seminar,Competitive and collaborative event exploring innovations in Music.,Hyderabad,RCOEM Nagpur,2242
+366,Technology Expo,Cultural,Competitive and collaborative event exploring innovations in Technology.,Pune,IIT Delhi,2723
+367,Football Meetup,Gaming,Hands-on learning and networking opportunity focused on Football.,Nagpur,BITS Pilani,1912
+368,Advanced Robotics Workshop,Seminar,Hands-on learning and networking opportunity focused on Robotics.,Jaipur,BITS Pilani,3520
+369,Music Bootcamp,Business,Join students and professionals for an immersive Music experience.,Delhi,VIT Pune,4767
+370,Cricket Championship,Business,"Explore advanced concepts, projects, and future trends in Cricket.",Bangalore,IIT Delhi,4118
+371,Cloud Computing Bootcamp,Sports,Hands-on learning and networking opportunity focused on Cloud Computing.,Mumbai,NIT Trichy,4100
+372,Cybersecurity Expo,Seminar,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Nagpur,IIT Bombay,497
+373,AI Seminar,Music,Join students and professionals for an immersive AI experience.,Pune,PICT Pune,174
+374,Football Expo,Business,Competitive and collaborative event exploring innovations in Football.,Nagpur,BITS Pilani,4058
+375,Advanced Web Development Workshop,Seminar,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Ahmedabad,VIT Pune,197
+376,AI Expo,Seminar,Hands-on learning and networking opportunity focused on AI.,Bangalore,VNIT Nagpur,4214
+377,Data Science Bootcamp,Workshop,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Ahmedabad,PICT Pune,2074
+378,Football Festival,Coding,"Explore advanced concepts, projects, and future trends in Football.",Hyderabad,RCOEM Nagpur,3351
+379,Coding Meetup,Cultural,Competitive and collaborative event exploring innovations in Coding.,Jaipur,YCCE Nagpur,1950
+380,Music Innovation Summit,Workshop,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Chennai,VIT Pune,3189
+381,IoT Championship,Tech,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Mumbai,IIT Bombay,4194
+382,Data Science Meetup,Workshop,"Explore advanced concepts, projects, and future trends in Data Science.",Ahmedabad,VNIT Nagpur,1982
+383,Football Festival,Coding,Competitive and collaborative event exploring innovations in Football.,Nagpur,IIT Bombay,2396
+384,IoT Festival,Sports,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Hyderabad,VNIT Nagpur,1797
+385,UI UX Bootcamp,Workshop,Competitive and collaborative event exploring innovations in UI UX.,Bangalore,PICT Pune,4719
+386,Cricket Festival,Seminar,Competitive and collaborative event exploring innovations in Cricket.,Hyderabad,VIT Pune,1246
+387,Coding Expo,Tech,Hands-on learning and networking opportunity focused on Coding.,Pune,VIT Pune,2001
+388,Coding Meetup,Hackathon,"Explore advanced concepts, projects, and future trends in Coding.",Jaipur,VIT Pune,2773
+389,AI Research Talk,Cultural,Competitive and collaborative event exploring innovations in AI.,Delhi,COEP Pune,4630
+390,Startup Seminar,Hackathon,Join students and professionals for an immersive Startup experience.,Chennai,IIT Bombay,2519
+391,Cricket Innovation Summit,Coding,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Mumbai,VIT Pune,1363
+392,Startup Meetup,Workshop,Hands-on learning and networking opportunity focused on Startup.,Pune,VNIT Nagpur,2625
+393,Cloud Computing Meetup,Workshop,Hands-on learning and networking opportunity focused on Cloud Computing.,Mumbai,IIT Bombay,1635
+394,Data Science Championship,Seminar,"Explore advanced concepts, projects, and future trends in Data Science.",Ahmedabad,VIT Pune,946
+395,AI Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on AI.,Pune,BITS Pilani,4999
+396,Dance Seminar,Coding,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Chennai,VIT Pune,793
+397,IoT Hackathon,Seminar,"Explore advanced concepts, projects, and future trends in IoT.",Mumbai,VIT Pune,1488
+398,Robotics Research Talk,Coding,Hands-on learning and networking opportunity focused on Robotics.,Kolkata,PICT Pune,618
+399,Cybersecurity Seminar,Gaming,Hands-on learning and networking opportunity focused on Cybersecurity.,Bangalore,IIT Delhi,730
+400,Technology Research Talk,Cultural,Join students and professionals for an immersive Technology experience.,Jaipur,BITS Pilani,1701
+401,Cloud Computing Innovation Summit,Coding,Join students and professionals for an immersive Cloud Computing experience.,Nagpur,VIT Pune,2821
+402,Entrepreneurship Seminar,Cultural,Hands-on learning and networking opportunity focused on Entrepreneurship.,Hyderabad,VIT Pune,4969
+403,Robotics Research Talk,Hackathon,Hands-on learning and networking opportunity focused on Robotics.,Delhi,IIT Delhi,2673
+404,Cybersecurity Seminar,Coding,Hands-on learning and networking opportunity focused on Cybersecurity.,Kolkata,BITS Pilani,2085
+405,Dance Seminar,Gaming,Hands-on learning and networking opportunity focused on Dance.,Hyderabad,IIT Bombay,4719
+406,Football Festival,Sports,"Explore advanced concepts, projects, and future trends in Football.",Ahmedabad,VNIT Nagpur,3881
+407,Football Championship,Workshop,Hands-on learning and networking opportunity focused on Football.,Chennai,IIT Delhi,1240
+408,Music Hackathon,Sports,Hands-on learning and networking opportunity focused on Music.,Chennai,VIT Pune,705
+409,Cloud Computing Festival,Hackathon,Competitive and collaborative event exploring innovations in Cloud Computing.,Chennai,NIT Trichy,4250
+410,Data Science Expo,Business,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Ahmedabad,BITS Pilani,796
+411,Hackathons Hackathon,Sports,Hands-on learning and networking opportunity focused on Hackathons.,Jaipur,VNIT Nagpur,4713
+412,Startup Meetup,Workshop,Competitive and collaborative event exploring innovations in Startup.,Nagpur,IIT Bombay,2219
+413,Cricket Expo,Seminar,"Explore advanced concepts, projects, and future trends in Cricket.",Jaipur,BITS Pilani,1910
+414,Cloud Computing Meetup,Cultural,Competitive and collaborative event exploring innovations in Cloud Computing.,Jaipur,NIT Trichy,1334
+415,Advanced Technology Workshop,Workshop,Competitive and collaborative event exploring innovations in Technology.,Bangalore,VIT Pune,803
+416,Hackathons Bootcamp,Coding,Hands-on learning and networking opportunity focused on Hackathons.,Hyderabad,IIT Delhi,1794
+417,Blockchain Championship,Cultural,Hands-on learning and networking opportunity focused on Blockchain.,Pune,IIT Delhi,3806
+418,Dance Innovation Summit,Tech,Hands-on learning and networking opportunity focused on Dance.,Pune,VNIT Nagpur,2910
+419,Hackathons Bootcamp,Seminar,Join students and professionals for an immersive Hackathons experience.,Mumbai,NIT Trichy,1411
+420,Dance Expo,Cultural,Competitive and collaborative event exploring innovations in Dance.,Delhi,VIT Pune,1611
+421,Cybersecurity Seminar,Tech,Competitive and collaborative event exploring innovations in Cybersecurity.,Jaipur,YCCE Nagpur,3782
+422,UI UX Seminar,Tech,Competitive and collaborative event exploring innovations in UI UX.,Delhi,YCCE Nagpur,2380
+423,Coding Festival,Seminar,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,COEP Pune,2770
+424,Football Championship,Coding,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Kolkata,NIT Trichy,2667
+425,Entrepreneurship Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Jaipur,IIT Bombay,2950
+426,Technology Championship,Sports,"Explore advanced concepts, projects, and future trends in Technology.",Bangalore,BITS Pilani,4934
+427,Coding Bootcamp,Workshop,Hands-on learning and networking opportunity focused on Coding.,Delhi,RCOEM Nagpur,1058
+428,Cybersecurity Meetup,Seminar,Join students and professionals for an immersive Cybersecurity experience.,Chennai,VIT Pune,4985
+429,Robotics Festival,Gaming,Competitive and collaborative event exploring innovations in Robotics.,Mumbai,IIT Delhi,4502
+430,Cybersecurity Expo,Cultural,Join students and professionals for an immersive Cybersecurity experience.,Bangalore,PICT Pune,1632
+431,Dance Championship,Tech,"Explore advanced concepts, projects, and future trends in Dance.",Hyderabad,VNIT Nagpur,4069
+432,Robotics Hackathon,Seminar,Competitive and collaborative event exploring innovations in Robotics.,Ahmedabad,IIT Delhi,3451
+433,Web Development Seminar,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Mumbai,IIT Bombay,4731
+434,AI Hackathon,Tech,Hands-on learning and networking opportunity focused on AI.,Bangalore,YCCE Nagpur,4504
+435,Music Bootcamp,Hackathon,Competitive and collaborative event exploring innovations in Music.,Kolkata,NIT Trichy,4284
+436,Hackathons Festival,Coding,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Ahmedabad,COEP Pune,4540
+437,Machine Learning Championship,Music,"Explore advanced concepts, projects, and future trends in Machine Learning.",Chennai,IIT Bombay,2127
+438,Advanced Music Workshop,Coding,Competitive and collaborative event exploring innovations in Music.,Hyderabad,IIT Bombay,3696
+439,Hackathons Hackathon,Hackathon,Join students and professionals for an immersive Hackathons experience.,Hyderabad,BITS Pilani,3607
+440,Cybersecurity Festival,Music,Join students and professionals for an immersive Cybersecurity experience.,Delhi,VNIT Nagpur,4770
+441,Technology Expo,Hackathon,Hands-on learning and networking opportunity focused on Technology.,Ahmedabad,PICT Pune,2751
+442,Music Research Talk,Coding,"Explore advanced concepts, projects, and future trends in Music.",Ahmedabad,IIT Bombay,1210
+443,Advanced Data Science Workshop,Sports,Hands-on learning and networking opportunity focused on Data Science.,Mumbai,YCCE Nagpur,1298
+444,Dance Hackathon,Cultural,Competitive and collaborative event exploring innovations in Dance.,Mumbai,BITS Pilani,2301
+445,Data Science Seminar,Workshop,Competitive and collaborative event exploring innovations in Data Science.,Pune,VIT Pune,4323
+446,Gaming Meetup,Cultural,Competitive and collaborative event exploring innovations in Gaming.,Hyderabad,BITS Pilani,120
+447,Coding Championship,Workshop,Hands-on learning and networking opportunity focused on Coding.,Ahmedabad,VIT Pune,1884
+448,Data Science Hackathon,Coding,Competitive and collaborative event exploring innovations in Data Science.,Hyderabad,RCOEM Nagpur,2866
+449,IoT Festival,Hackathon,Join students and professionals for an immersive IoT experience.,Kolkata,COEP Pune,496
+450,Machine Learning Innovation Summit,Tech,Competitive and collaborative event exploring innovations in Machine Learning.,Pune,PICT Pune,3715
+451,Advanced Cloud Computing Workshop,Music,Competitive and collaborative event exploring innovations in Cloud Computing.,Mumbai,RCOEM Nagpur,1402
+452,Gaming Innovation Summit,Coding,Hands-on learning and networking opportunity focused on Gaming.,Pune,COEP Pune,1455
+453,Machine Learning Seminar,Music,Hands-on learning and networking opportunity focused on Machine Learning.,Chennai,IIT Bombay,879
+454,AI Hackathon,Workshop,Competitive and collaborative event exploring innovations in AI.,Mumbai,BITS Pilani,1952
+455,Blockchain Championship,Tech,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Hyderabad,IIT Bombay,3559
+456,Robotics Championship,Music,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Chennai,IIT Bombay,939
+457,Hackathons Meetup,Coding,Hands-on learning and networking opportunity focused on Hackathons.,Mumbai,VIT Pune,1190
+458,Robotics Innovation Summit,Hackathon,"Explore advanced concepts, projects, and future trends in Robotics.",Nagpur,BITS Pilani,1444
+459,Cloud Computing Meetup,Sports,Join students and professionals for an immersive Cloud Computing experience.,Chennai,BITS Pilani,3724
+460,Football Innovation Summit,Sports,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Pune,BITS Pilani,3245
+461,Technology Seminar,Sports,Hands-on learning and networking opportunity focused on Technology.,Delhi,RCOEM Nagpur,790
+462,Cricket Expo,Hackathon,"Explore advanced concepts, projects, and future trends in Cricket.",Jaipur,RCOEM Nagpur,319
+463,Music Hackathon,Hackathon,"Explore advanced concepts, projects, and future trends in Music.",Ahmedabad,YCCE Nagpur,3309
+464,Advanced Music Workshop,Cultural,Join students and professionals for an immersive Music experience.,Chennai,IIT Bombay,2074
+465,Web Development Festival,Seminar,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Nagpur,COEP Pune,2692
+466,Robotics Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Robotics.",Hyderabad,NIT Trichy,1515
+467,Web Development Innovation Summit,Hackathon,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Pune,VNIT Nagpur,2247
+468,Advanced Football Workshop,Gaming,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Ahmedabad,RCOEM Nagpur,4204
+469,Data Science Seminar,Workshop,Competitive and collaborative event exploring innovations in Data Science.,Ahmedabad,NIT Trichy,1350
+470,Gaming Innovation Summit,Workshop,Hands-on learning and networking opportunity focused on Gaming.,Ahmedabad,YCCE Nagpur,1372
+471,IoT Meetup,Hackathon,Competitive and collaborative event exploring innovations in IoT.,Pune,RCOEM Nagpur,3683
+472,Advanced Cricket Workshop,Workshop,Join students and professionals for an immersive Cricket experience.,Chennai,IIT Bombay,3814
+473,Entrepreneurship Festival,Coding,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Mumbai,IIT Bombay,203
+474,Advanced Robotics Workshop,Cultural,Join students and professionals for an immersive Robotics experience.,Hyderabad,NIT Trichy,4337
+475,Gaming Bootcamp,Sports,Hands-on learning and networking opportunity focused on Gaming.,Bangalore,IIT Bombay,340
+476,Dance Seminar,Seminar,Hands-on learning and networking opportunity focused on Dance.,Pune,RCOEM Nagpur,4823
+477,Coding Championship,Seminar,Competitive and collaborative event exploring innovations in Coding.,Hyderabad,VNIT Nagpur,4192
+478,UI UX Bootcamp,Sports,Hands-on learning and networking opportunity focused on UI UX.,Bangalore,IIT Bombay,4801
+479,Hackathons Hackathon,Tech,"Explore advanced concepts, projects, and future trends in Hackathons.",Nagpur,VNIT Nagpur,2103
+480,Machine Learning Championship,Gaming,Hands-on learning and networking opportunity focused on Machine Learning.,Mumbai,PICT Pune,389
+481,IoT Seminar,Business,Join students and professionals for an immersive IoT experience.,Delhi,VIT Pune,2720
+482,Gaming Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Gaming.",Pune,NIT Trichy,531
+483,Cybersecurity Hackathon,Tech,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Chennai,IIT Bombay,3910
+484,Music Research Talk,Workshop,Hands-on learning and networking opportunity focused on Music.,Ahmedabad,IIT Delhi,165
+485,Technology Hackathon,Hackathon,Hands-on learning and networking opportunity focused on Technology.,Bangalore,BITS Pilani,2087
+486,Cloud Computing Meetup,Cultural,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Delhi,NIT Trichy,2108
+487,Advanced Robotics Workshop,Tech,Competitive and collaborative event exploring innovations in Robotics.,Delhi,NIT Trichy,2937
+488,AI Meetup,Gaming,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Bangalore,IIT Bombay,1780
+489,Blockchain Hackathon,Cultural,Competitive and collaborative event exploring innovations in Blockchain.,Nagpur,PICT Pune,2392
+490,Advanced Coding Workshop,Seminar,Join students and professionals for an immersive Coding experience.,Chennai,COEP Pune,3855
+491,Coding Festival,Seminar,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,VIT Pune,713
+492,UI UX Festival,Gaming,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Mumbai,YCCE Nagpur,2489
+493,Gaming Meetup,Business,Competitive and collaborative event exploring innovations in Gaming.,Hyderabad,IIT Delhi,2327
+494,Cricket Innovation Summit,Sports,Join students and professionals for an immersive Cricket experience.,Jaipur,IIT Bombay,1373
+495,Hackathons Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Hackathons.,Hyderabad,VIT Pune,1089
+496,IoT Meetup,Cultural,Join students and professionals for an immersive IoT experience.,Bangalore,IIT Delhi,2270
+497,Hackathons Innovation Summit,Coding,Join students and professionals for an immersive Hackathons experience.,Jaipur,VNIT Nagpur,1861
+498,Dance Bootcamp,Music,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Hyderabad,VIT Pune,4306
+499,Machine Learning Research Talk,Sports,Hands-on learning and networking opportunity focused on Machine Learning.,Nagpur,VIT Pune,3804
+500,IoT Expo,Workshop,Join students and professionals for an immersive IoT experience.,Kolkata,IIT Bombay,1245
+501,Advanced Hackathons Workshop,Music,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Mumbai,YCCE Nagpur,3381
+502,Technology Innovation Summit,Hackathon,"Explore advanced concepts, projects, and future trends in Technology.",Bangalore,IIT Bombay,278
+503,Coding Hackathon,Sports,Competitive and collaborative event exploring innovations in Coding.,Pune,COEP Pune,1103
+504,Machine Learning Championship,Sports,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Jaipur,VIT Pune,3335
+505,Advanced Web Development Workshop,Gaming,Competitive and collaborative event exploring innovations in Web Development.,Mumbai,COEP Pune,1858
+506,Cybersecurity Research Talk,Cultural,Hands-on learning and networking opportunity focused on Cybersecurity.,Mumbai,VNIT Nagpur,2113
+507,Music Championship,Seminar,Competitive and collaborative event exploring innovations in Music.,Kolkata,VNIT Nagpur,818
+508,Gaming Seminar,Gaming,Join students and professionals for an immersive Gaming experience.,Delhi,NIT Trichy,2141
+509,Advanced IoT Workshop,Business,Competitive and collaborative event exploring innovations in IoT.,Kolkata,NIT Trichy,4070
+510,Technology Festival,Business,"Explore advanced concepts, projects, and future trends in Technology.",Chennai,RCOEM Nagpur,1573
+511,AI Meetup,Music,"Explore advanced concepts, projects, and future trends in AI.",Nagpur,RCOEM Nagpur,579
+512,Web Development Expo,Hackathon,Hands-on learning and networking opportunity focused on Web Development.,Delhi,PICT Pune,920
+513,Cricket Hackathon,Seminar,Hands-on learning and networking opportunity focused on Cricket.,Nagpur,YCCE Nagpur,4816
+514,Startup Meetup,Sports,Join students and professionals for an immersive Startup experience.,Delhi,BITS Pilani,2705
+515,Technology Festival,Business,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Jaipur,BITS Pilani,1264
+516,UI UX Hackathon,Seminar,Competitive and collaborative event exploring innovations in UI UX.,Bangalore,PICT Pune,4117
+517,Machine Learning Innovation Summit,Music,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,263
+518,Blockchain Championship,Business,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,1168
+519,Dance Bootcamp,Tech,Hands-on learning and networking opportunity focused on Dance.,Nagpur,PICT Pune,4905
+520,Robotics Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Robotics.",Pune,COEP Pune,3340
+521,UI UX Innovation Summit,Coding,Hands-on learning and networking opportunity focused on UI UX.,Hyderabad,PICT Pune,1390
+522,Data Science Championship,Sports,Hands-on learning and networking opportunity focused on Data Science.,Ahmedabad,BITS Pilani,3023
+523,Cricket Festival,Gaming,Join students and professionals for an immersive Cricket experience.,Bangalore,RCOEM Nagpur,1143
+524,Advanced Cybersecurity Workshop,Gaming,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Jaipur,VNIT Nagpur,1591
+525,Entrepreneurship Meetup,Music,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Jaipur,IIT Bombay,4164
+526,Robotics Meetup,Music,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Hyderabad,COEP Pune,1475
+527,Coding Meetup,Tech,Competitive and collaborative event exploring innovations in Coding.,Bangalore,YCCE Nagpur,2144
+528,Coding Meetup,Workshop,Hands-on learning and networking opportunity focused on Coding.,Nagpur,VNIT Nagpur,3261
+529,Cloud Computing Seminar,Gaming,Join students and professionals for an immersive Cloud Computing experience.,Kolkata,VIT Pune,2977
+530,IoT Seminar,Cultural,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,1432
+531,Cloud Computing Innovation Summit,Coding,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Nagpur,COEP Pune,2239
+532,Hackathons Innovation Summit,Sports,Hands-on learning and networking opportunity focused on Hackathons.,Chennai,PICT Pune,714
+533,IoT Innovation Summit,Hackathon,Hands-on learning and networking opportunity focused on IoT.,Jaipur,IIT Delhi,353
+534,Data Science Bootcamp,Gaming,"Explore advanced concepts, projects, and future trends in Data Science.",Mumbai,VNIT Nagpur,929
+535,Dance Hackathon,Gaming,Join students and professionals for an immersive Dance experience.,Ahmedabad,NIT Trichy,2273
+536,Music Research Talk,Workshop,Join students and professionals for an immersive Music experience.,Nagpur,VIT Pune,4783
+537,IoT Championship,Tech,Join students and professionals for an immersive IoT experience.,Hyderabad,VNIT Nagpur,3602
+538,Coding Research Talk,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Delhi,IIT Bombay,310
+539,Football Bootcamp,Workshop,Hands-on learning and networking opportunity focused on Football.,Kolkata,IIT Bombay,2626
+540,Startup Championship,Coding,Competitive and collaborative event exploring innovations in Startup.,Pune,NIT Trichy,3274
+541,Cybersecurity Meetup,Business,Competitive and collaborative event exploring innovations in Cybersecurity.,Mumbai,IIT Delhi,465
+542,Gaming Championship,Coding,Competitive and collaborative event exploring innovations in Gaming.,Delhi,RCOEM Nagpur,4722
+543,Machine Learning Bootcamp,Workshop,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Hyderabad,NIT Trichy,3491
+544,UI UX Hackathon,Tech,"Explore advanced concepts, projects, and future trends in UI UX.",Chennai,NIT Trichy,3529
+545,IoT Championship,Music,"Explore advanced concepts, projects, and future trends in IoT.",Kolkata,RCOEM Nagpur,746
+546,Advanced Startup Workshop,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Ahmedabad,BITS Pilani,1307
+547,Hackathons Championship,Sports,Join students and professionals for an immersive Hackathons experience.,Delhi,YCCE Nagpur,1133
+548,Machine Learning Seminar,Gaming,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Delhi,PICT Pune,4974
+549,Gaming Meetup,Workshop,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Chennai,NIT Trichy,3355
+550,IoT Meetup,Seminar,Hands-on learning and networking opportunity focused on IoT.,Kolkata,VNIT Nagpur,4913
+551,Blockchain Seminar,Gaming,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Mumbai,PICT Pune,4741
+552,UI UX Festival,Workshop,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Jaipur,IIT Bombay,2443
+553,IoT Meetup,Coding,Competitive and collaborative event exploring innovations in IoT.,Chennai,IIT Delhi,4786
+554,Entrepreneurship Championship,Sports,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Bangalore,VIT Pune,1278
+555,Entrepreneurship Festival,Tech,Competitive and collaborative event exploring innovations in Entrepreneurship.,Chennai,COEP Pune,2046
+556,Machine Learning Championship,Business,Hands-on learning and networking opportunity focused on Machine Learning.,Nagpur,COEP Pune,2582
+557,Music Research Talk,Workshop,Competitive and collaborative event exploring innovations in Music.,Delhi,PICT Pune,2561
+558,Cloud Computing Meetup,Gaming,Hands-on learning and networking opportunity focused on Cloud Computing.,Jaipur,IIT Bombay,1639
+559,Cloud Computing Hackathon,Cultural,Competitive and collaborative event exploring innovations in Cloud Computing.,Ahmedabad,COEP Pune,560
+560,Blockchain Bootcamp,Coding,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Ahmedabad,VIT Pune,1211
+561,Blockchain Festival,Sports,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Delhi,YCCE Nagpur,572
+562,Advanced Cricket Workshop,Tech,Competitive and collaborative event exploring innovations in Cricket.,Hyderabad,YCCE Nagpur,2344
+563,Technology Championship,Gaming,"Explore advanced concepts, projects, and future trends in Technology.",Pune,VNIT Nagpur,2081
+564,Technology Championship,Cultural,"Explore advanced concepts, projects, and future trends in Technology.",Mumbai,IIT Delhi,4907
+565,IoT Meetup,Sports,Hands-on learning and networking opportunity focused on IoT.,Bangalore,IIT Bombay,2435
+566,AI Seminar,Sports,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,1913
+567,Cricket Hackathon,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Ahmedabad,VNIT Nagpur,172
+568,Web Development Bootcamp,Hackathon,Join students and professionals for an immersive Web Development experience.,Nagpur,YCCE Nagpur,2167
+569,Entrepreneurship Research Talk,Gaming,Hands-on learning and networking opportunity focused on Entrepreneurship.,Chennai,COEP Pune,3860
+570,Gaming Hackathon,Coding,Competitive and collaborative event exploring innovations in Gaming.,Ahmedabad,BITS Pilani,3353
+571,UI UX Innovation Summit,Seminar,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Hyderabad,NIT Trichy,4964
+572,Entrepreneurship Research Talk,Workshop,Hands-on learning and networking opportunity focused on Entrepreneurship.,Kolkata,IIT Bombay,2854
+573,Gaming Meetup,Coding,Hands-on learning and networking opportunity focused on Gaming.,Bangalore,YCCE Nagpur,1328
+574,Blockchain Hackathon,Hackathon,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Chennai,COEP Pune,1246
+575,AI Championship,Coding,Hands-on learning and networking opportunity focused on AI.,Chennai,VIT Pune,3280
+576,Machine Learning Festival,Music,"Explore advanced concepts, projects, and future trends in Machine Learning.",Hyderabad,YCCE Nagpur,4479
+577,Web Development Meetup,Coding,"Explore advanced concepts, projects, and future trends in Web Development.",Mumbai,NIT Trichy,1583
+578,Music Innovation Summit,Sports,Competitive and collaborative event exploring innovations in Music.,Bangalore,NIT Trichy,1599
+579,Dance Innovation Summit,Business,Join students and professionals for an immersive Dance experience.,Delhi,RCOEM Nagpur,3544
+580,Dance Meetup,Hackathon,Hands-on learning and networking opportunity focused on Dance.,Bangalore,IIT Delhi,1064
+581,Advanced Web Development Workshop,Hackathon,"Explore advanced concepts, projects, and future trends in Web Development.",Jaipur,IIT Bombay,3968
+582,Football Expo,Gaming,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Ahmedabad,RCOEM Nagpur,3484
+583,Machine Learning Bootcamp,Music,Join students and professionals for an immersive Machine Learning experience.,Hyderabad,VIT Pune,4764
+584,Cloud Computing Bootcamp,Sports,Hands-on learning and networking opportunity focused on Cloud Computing.,Pune,IIT Delhi,2824
+585,Cybersecurity Meetup,Tech,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Kolkata,RCOEM Nagpur,1815
+586,Cybersecurity Festival,Cultural,Join students and professionals for an immersive Cybersecurity experience.,Pune,PICT Pune,3652
+587,Data Science Seminar,Cultural,Competitive and collaborative event exploring innovations in Data Science.,Chennai,VNIT Nagpur,409
+588,IoT Hackathon,Tech,Hands-on learning and networking opportunity focused on IoT.,Hyderabad,NIT Trichy,1661
+589,Advanced AI Workshop,Music,Join students and professionals for an immersive AI experience.,Hyderabad,RCOEM Nagpur,1156
+590,Hackathons Seminar,Hackathon,"Explore advanced concepts, projects, and future trends in Hackathons.",Bangalore,PICT Pune,634
+591,Machine Learning Research Talk,Cultural,Hands-on learning and networking opportunity focused on Machine Learning.,Ahmedabad,BITS Pilani,4393
+592,Dance Seminar,Business,Join students and professionals for an immersive Dance experience.,Kolkata,COEP Pune,1643
+593,Cybersecurity Seminar,Music,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Delhi,PICT Pune,1830
+594,AI Festival,Sports,"Explore advanced concepts, projects, and future trends in AI.",Pune,COEP Pune,406
+595,Startup Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Nagpur,BITS Pilani,492
+596,Advanced Hackathons Workshop,Workshop,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Chennai,IIT Delhi,3215
+597,Hackathons Expo,Cultural,Hands-on learning and networking opportunity focused on Hackathons.,Mumbai,YCCE Nagpur,176
+598,Music Seminar,Seminar,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Bangalore,BITS Pilani,1223
+599,Data Science Innovation Summit,Hackathon,"Explore advanced concepts, projects, and future trends in Data Science.",Pune,RCOEM Nagpur,1033
+600,Hackathons Championship,Hackathon,Join students and professionals for an immersive Hackathons experience.,Delhi,RCOEM Nagpur,4385
+601,Football Meetup,Coding,Competitive and collaborative event exploring innovations in Football.,Mumbai,VNIT Nagpur,4590
+602,Web Development Hackathon,Business,Competitive and collaborative event exploring innovations in Web Development.,Delhi,VNIT Nagpur,204
+603,Coding Innovation Summit,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Mumbai,IIT Bombay,4291
+604,Coding Innovation Summit,Music,Hands-on learning and networking opportunity focused on Coding.,Kolkata,RCOEM Nagpur,2263
+605,Advanced Cloud Computing Workshop,Sports,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Nagpur,RCOEM Nagpur,3050
+606,Dance Seminar,Workshop,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Nagpur,VNIT Nagpur,1233
+607,Cybersecurity Meetup,Cultural,Hands-on learning and networking opportunity focused on Cybersecurity.,Jaipur,RCOEM Nagpur,861
+608,Technology Meetup,Workshop,Join students and professionals for an immersive Technology experience.,Chennai,VIT Pune,3839
+609,Gaming Seminar,Gaming,Competitive and collaborative event exploring innovations in Gaming.,Mumbai,IIT Bombay,1185
+610,Machine Learning Bootcamp,Gaming,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Jaipur,IIT Delhi,4760
+611,Cloud Computing Bootcamp,Gaming,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Hyderabad,BITS Pilani,336
+612,Robotics Championship,Workshop,Competitive and collaborative event exploring innovations in Robotics.,Chennai,IIT Delhi,476
+613,Coding Research Talk,Tech,Hands-on learning and networking opportunity focused on Coding.,Ahmedabad,BITS Pilani,4728
+614,Cricket Meetup,Seminar,"Explore advanced concepts, projects, and future trends in Cricket.",Jaipur,IIT Bombay,3645
+615,Cricket Championship,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Mumbai,NIT Trichy,547
+616,AI Bootcamp,Cultural,"Explore advanced concepts, projects, and future trends in AI.",Kolkata,PICT Pune,713
+617,Web Development Meetup,Business,Join students and professionals for an immersive Web Development experience.,Bangalore,VNIT Nagpur,4252
+618,Cricket Expo,Gaming,Competitive and collaborative event exploring innovations in Cricket.,Delhi,IIT Bombay,3860
+619,Cloud Computing Festival,Workshop,Competitive and collaborative event exploring innovations in Cloud Computing.,Kolkata,IIT Delhi,2689
+620,Hackathons Championship,Workshop,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Chennai,VIT Pune,393
+621,IoT Expo,Workshop,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Jaipur,BITS Pilani,2595
+622,Blockchain Expo,Cultural,Join students and professionals for an immersive Blockchain experience.,Hyderabad,COEP Pune,544
+623,Cricket Championship,Seminar,Hands-on learning and networking opportunity focused on Cricket.,Jaipur,BITS Pilani,3975
+624,Technology Championship,Workshop,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Delhi,VNIT Nagpur,2896
+625,Technology Research Talk,Seminar,"Explore advanced concepts, projects, and future trends in Technology.",Hyderabad,IIT Bombay,475
+626,Cybersecurity Championship,Gaming,Join students and professionals for an immersive Cybersecurity experience.,Pune,RCOEM Nagpur,1704
+627,Football Innovation Summit,Music,Competitive and collaborative event exploring innovations in Football.,Kolkata,YCCE Nagpur,2868
+628,Hackathons Seminar,Hackathon,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Pune,IIT Delhi,3846
+629,UI UX Expo,Cultural,Join students and professionals for an immersive UI UX experience.,Nagpur,NIT Trichy,497
+630,IoT Seminar,Cultural,"Explore advanced concepts, projects, and future trends in IoT.",Ahmedabad,PICT Pune,4839
+631,Cybersecurity Bootcamp,Gaming,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Jaipur,BITS Pilani,2736
+632,Blockchain Seminar,Hackathon,Competitive and collaborative event exploring innovations in Blockchain.,Delhi,RCOEM Nagpur,3359
+633,Dance Research Talk,Sports,Competitive and collaborative event exploring innovations in Dance.,Mumbai,VIT Pune,4296
+634,Music Expo,Seminar,Hands-on learning and networking opportunity focused on Music.,Delhi,YCCE Nagpur,1817
+635,Entrepreneurship Research Talk,Sports,Hands-on learning and networking opportunity focused on Entrepreneurship.,Mumbai,NIT Trichy,4544
+636,Dance Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on Dance.,Kolkata,BITS Pilani,4774
+637,Data Science Expo,Gaming,Hands-on learning and networking opportunity focused on Data Science.,Nagpur,NIT Trichy,972
+638,AI Seminar,Tech,Join students and professionals for an immersive AI experience.,Nagpur,YCCE Nagpur,2287
+639,Cybersecurity Research Talk,Sports,Hands-on learning and networking opportunity focused on Cybersecurity.,Nagpur,RCOEM Nagpur,1771
+640,Advanced IoT Workshop,Cultural,Hands-on learning and networking opportunity focused on IoT.,Pune,BITS Pilani,4702
+641,Cricket Expo,Music,Competitive and collaborative event exploring innovations in Cricket.,Ahmedabad,RCOEM Nagpur,484
+642,Startup Seminar,Business,Competitive and collaborative event exploring innovations in Startup.,Ahmedabad,VNIT Nagpur,206
+643,Gaming Hackathon,Cultural,"Explore advanced concepts, projects, and future trends in Gaming.",Delhi,COEP Pune,4920
+644,IoT Festival,Music,Join students and professionals for an immersive IoT experience.,Bangalore,IIT Delhi,1553
+645,Coding Bootcamp,Seminar,Join students and professionals for an immersive Coding experience.,Pune,VIT Pune,432
+646,Data Science Research Talk,Coding,"Explore advanced concepts, projects, and future trends in Data Science.",Mumbai,PICT Pune,4884
+647,Advanced Gaming Workshop,Cultural,Hands-on learning and networking opportunity focused on Gaming.,Mumbai,VNIT Nagpur,1359
+648,Dance Festival,Hackathon,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Bangalore,IIT Delhi,4791
+649,IoT Meetup,Business,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Ahmedabad,YCCE Nagpur,1606
+650,Blockchain Innovation Summit,Sports,"Explore advanced concepts, projects, and future trends in Blockchain.",Chennai,NIT Trichy,4499
+651,Startup Innovation Summit,Music,Hands-on learning and networking opportunity focused on Startup.,Delhi,COEP Pune,2812
+652,Technology Research Talk,Hackathon,Join students and professionals for an immersive Technology experience.,Ahmedabad,IIT Delhi,4698
+653,AI Innovation Summit,Cultural,Hands-on learning and networking opportunity focused on AI.,Delhi,BITS Pilani,2097
+654,Machine Learning Meetup,Workshop,Competitive and collaborative event exploring innovations in Machine Learning.,Chennai,RCOEM Nagpur,4525
+655,Advanced Music Workshop,Business,"Explore advanced concepts, projects, and future trends in Music.",Ahmedabad,NIT Trichy,3750
+656,Advanced Web Development Workshop,Music,Hands-on learning and networking opportunity focused on Web Development.,Hyderabad,NIT Trichy,774
+657,Hackathons Bootcamp,Seminar,"Explore advanced concepts, projects, and future trends in Hackathons.",Nagpur,IIT Bombay,1826
+658,Football Seminar,Music,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Ahmedabad,VIT Pune,690
+659,Advanced Robotics Workshop,Business,Competitive and collaborative event exploring innovations in Robotics.,Nagpur,IIT Bombay,700
+660,Machine Learning Bootcamp,Seminar,Hands-on learning and networking opportunity focused on Machine Learning.,Pune,BITS Pilani,1964
+661,Gaming Seminar,Cultural,Competitive and collaborative event exploring innovations in Gaming.,Chennai,VIT Pune,2691
+662,AI Seminar,Seminar,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Nagpur,BITS Pilani,618
+663,Advanced UI UX Workshop,Business,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Ahmedabad,IIT Bombay,2474
+664,Music Festival,Coding,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Kolkata,VIT Pune,3336
+665,AI Championship,Seminar,Join students and professionals for an immersive AI experience.,Delhi,PICT Pune,3303
+666,IoT Research Talk,Coding,Join students and professionals for an immersive IoT experience.,Hyderabad,VNIT Nagpur,4634
+667,IoT Bootcamp,Tech,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,BITS Pilani,4987
+668,Startup Expo,Workshop,"Explore advanced concepts, projects, and future trends in Startup.",Bangalore,YCCE Nagpur,2916
+669,Football Seminar,Sports,"Explore advanced concepts, projects, and future trends in Football.",Mumbai,PICT Pune,1908
+670,Entrepreneurship Research Talk,Workshop,Join students and professionals for an immersive Entrepreneurship experience.,Mumbai,BITS Pilani,545
+671,IoT Championship,Workshop,"Explore advanced concepts, projects, and future trends in IoT.",Bangalore,IIT Bombay,2153
+672,Hackathons Hackathon,Cultural,"Explore advanced concepts, projects, and future trends in Hackathons.",Hyderabad,COEP Pune,1150
+673,Cricket Innovation Summit,Hackathon,Hands-on learning and networking opportunity focused on Cricket.,Pune,YCCE Nagpur,2703
+674,Web Development Championship,Hackathon,Hands-on learning and networking opportunity focused on Web Development.,Bangalore,BITS Pilani,1348
+675,UI UX Festival,Business,Hands-on learning and networking opportunity focused on UI UX.,Chennai,PICT Pune,139
+676,Dance Hackathon,Gaming,Join students and professionals for an immersive Dance experience.,Bangalore,COEP Pune,1200
+677,Dance Championship,Cultural,Competitive and collaborative event exploring innovations in Dance.,Hyderabad,RCOEM Nagpur,4089
+678,IoT Innovation Summit,Hackathon,Join students and professionals for an immersive IoT experience.,Pune,RCOEM Nagpur,1246
+679,IoT Hackathon,Workshop,Hands-on learning and networking opportunity focused on IoT.,Pune,VNIT Nagpur,4254
+680,AI Festival,Gaming,"Explore advanced concepts, projects, and future trends in AI.",Jaipur,YCCE Nagpur,400
+681,IoT Research Talk,Seminar,"Explore advanced concepts, projects, and future trends in IoT.",Kolkata,PICT Pune,3096
+682,Startup Hackathon,Coding,"Explore advanced concepts, projects, and future trends in Startup.",Mumbai,IIT Delhi,4205
+683,Blockchain Innovation Summit,Business,Competitive and collaborative event exploring innovations in Blockchain.,Ahmedabad,VNIT Nagpur,2056
+684,Entrepreneurship Bootcamp,Sports,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Kolkata,PICT Pune,1567
+685,UI UX Festival,Cultural,Join students and professionals for an immersive UI UX experience.,Hyderabad,VNIT Nagpur,1892
+686,Web Development Hackathon,Coding,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,450
+687,Football Expo,Gaming,Hands-on learning and networking opportunity focused on Football.,Kolkata,IIT Delhi,480
+688,Machine Learning Meetup,Seminar,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Bangalore,RCOEM Nagpur,4840
+689,IoT Festival,Gaming,Join students and professionals for an immersive IoT experience.,Chennai,COEP Pune,4914
+690,Coding Expo,Gaming,Hands-on learning and networking opportunity focused on Coding.,Delhi,NIT Trichy,3424
+691,Technology Meetup,Cultural,Competitive and collaborative event exploring innovations in Technology.,Jaipur,VNIT Nagpur,4211
+692,Robotics Championship,Music,Join students and professionals for an immersive Robotics experience.,Pune,NIT Trichy,2400
+693,Football Bootcamp,Sports,Join students and professionals for an immersive Football experience.,Hyderabad,BITS Pilani,1069
+694,Cricket Seminar,Workshop,Hands-on learning and networking opportunity focused on Cricket.,Kolkata,IIT Delhi,4024
+695,Football Festival,Gaming,Join students and professionals for an immersive Football experience.,Nagpur,YCCE Nagpur,453
+696,Robotics Festival,Sports,"Explore advanced concepts, projects, and future trends in Robotics.",Mumbai,NIT Trichy,421
+697,UI UX Bootcamp,Sports,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Bangalore,PICT Pune,4332
+698,Startup Festival,Tech,"Explore advanced concepts, projects, and future trends in Startup.",Bangalore,IIT Bombay,1874
+699,Cloud Computing Festival,Cultural,Competitive and collaborative event exploring innovations in Cloud Computing.,Mumbai,YCCE Nagpur,3465
+700,Entrepreneurship Bootcamp,Sports,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Jaipur,NIT Trichy,2266
+701,Cybersecurity Meetup,Hackathon,Competitive and collaborative event exploring innovations in Cybersecurity.,Jaipur,IIT Bombay,1982
+702,Startup Seminar,Workshop,Join students and professionals for an immersive Startup experience.,Nagpur,YCCE Nagpur,4382
+703,Blockchain Seminar,Hackathon,Join students and professionals for an immersive Blockchain experience.,Pune,PICT Pune,3998
+704,Entrepreneurship Festival,Seminar,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Ahmedabad,IIT Bombay,863
+705,Web Development Bootcamp,Seminar,"Explore advanced concepts, projects, and future trends in Web Development.",Nagpur,VIT Pune,4376
+706,Data Science Meetup,Seminar,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Chennai,YCCE Nagpur,4049
+707,Startup Meetup,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Pune,VIT Pune,1196
+708,Gaming Championship,Workshop,Join students and professionals for an immersive Gaming experience.,Bangalore,BITS Pilani,4554
+709,Data Science Research Talk,Tech,Join students and professionals for an immersive Data Science experience.,Nagpur,BITS Pilani,4380
+710,Hackathons Expo,Gaming,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Delhi,COEP Pune,3449
+711,Technology Innovation Summit,Gaming,Join students and professionals for an immersive Technology experience.,Jaipur,RCOEM Nagpur,2240
+712,IoT Seminar,Business,"Explore advanced concepts, projects, and future trends in IoT.",Jaipur,RCOEM Nagpur,3355
+713,Football Seminar,Seminar,"Explore advanced concepts, projects, and future trends in Football.",Kolkata,PICT Pune,3132
+714,IoT Expo,Coding,Competitive and collaborative event exploring innovations in IoT.,Bangalore,BITS Pilani,2920
+715,Startup Bootcamp,Music,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Kolkata,PICT Pune,921
+716,Football Expo,Business,Competitive and collaborative event exploring innovations in Football.,Ahmedabad,BITS Pilani,526
+717,Cybersecurity Seminar,Workshop,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Mumbai,IIT Delhi,3666
+718,Coding Innovation Summit,Music,Hands-on learning and networking opportunity focused on Coding.,Hyderabad,IIT Bombay,409
+719,Startup Seminar,Seminar,"Explore advanced concepts, projects, and future trends in Startup.",Bangalore,BITS Pilani,570
+720,Cybersecurity Championship,Tech,Competitive and collaborative event exploring innovations in Cybersecurity.,Delhi,NIT Trichy,2442
+721,Advanced Football Workshop,Seminar,"Explore advanced concepts, projects, and future trends in Football.",Ahmedabad,YCCE Nagpur,1488
+722,Machine Learning Meetup,Tech,Join students and professionals for an immersive Machine Learning experience.,Mumbai,IIT Bombay,2360
+723,Startup Meetup,Gaming,Competitive and collaborative event exploring innovations in Startup.,Jaipur,YCCE Nagpur,4341
+724,AI Innovation Summit,Seminar,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Bangalore,NIT Trichy,4875
+725,Technology Meetup,Music,Hands-on learning and networking opportunity focused on Technology.,Jaipur,YCCE Nagpur,3825
+726,Startup Festival,Coding,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Mumbai,VIT Pune,4247
+727,Hackathons Expo,Seminar,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Bangalore,COEP Pune,1058
+728,Blockchain Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Blockchain.",Bangalore,IIT Delhi,3189
+729,UI UX Championship,Business,Join students and professionals for an immersive UI UX experience.,Kolkata,IIT Delhi,4907
+730,AI Championship,Coding,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Pune,VIT Pune,1905
+731,Cricket Meetup,Business,Competitive and collaborative event exploring innovations in Cricket.,Ahmedabad,NIT Trichy,179
+732,Gaming Hackathon,Workshop,Hands-on learning and networking opportunity focused on Gaming.,Chennai,COEP Pune,722
+733,IoT Bootcamp,Business,Competitive and collaborative event exploring innovations in IoT.,Hyderabad,YCCE Nagpur,4799
+734,Gaming Bootcamp,Cultural,Join students and professionals for an immersive Gaming experience.,Delhi,YCCE Nagpur,2082
+735,Gaming Hackathon,Music,Join students and professionals for an immersive Gaming experience.,Delhi,BITS Pilani,3016
+736,Robotics Innovation Summit,Workshop,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Kolkata,BITS Pilani,154
+737,Advanced IoT Workshop,Business,Competitive and collaborative event exploring innovations in IoT.,Jaipur,COEP Pune,4133
+738,UI UX Research Talk,Sports,Competitive and collaborative event exploring innovations in UI UX.,Ahmedabad,RCOEM Nagpur,3359
+739,Cricket Festival,Tech,Join students and professionals for an immersive Cricket experience.,Ahmedabad,VIT Pune,4018
+740,Advanced IoT Workshop,Business,"Explore advanced concepts, projects, and future trends in IoT.",Chennai,PICT Pune,3845
+741,Hackathons Expo,Business,Competitive and collaborative event exploring innovations in Hackathons.,Nagpur,VNIT Nagpur,1826
+742,Startup Festival,Business,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Hyderabad,BITS Pilani,2227
+743,Cybersecurity Expo,Music,Hands-on learning and networking opportunity focused on Cybersecurity.,Bangalore,IIT Delhi,2910
+744,Technology Bootcamp,Gaming,Competitive and collaborative event exploring innovations in Technology.,Delhi,VIT Pune,3149
+745,Technology Seminar,Cultural,Hands-on learning and networking opportunity focused on Technology.,Mumbai,BITS Pilani,1174
+746,UI UX Hackathon,Coding,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Delhi,NIT Trichy,3640
+747,Startup Hackathon,Sports,Join students and professionals for an immersive Startup experience.,Kolkata,VNIT Nagpur,1546
+748,Data Science Championship,Seminar,Join students and professionals for an immersive Data Science experience.,Ahmedabad,COEP Pune,4086
+749,Music Research Talk,Hackathon,"Explore advanced concepts, projects, and future trends in Music.",Nagpur,VIT Pune,910
+750,Advanced Cybersecurity Workshop,Coding,Join students and professionals for an immersive Cybersecurity experience.,Kolkata,IIT Bombay,3785
+751,Dance Research Talk,Business,Hands-on learning and networking opportunity focused on Dance.,Ahmedabad,NIT Trichy,2211
+752,Advanced Technology Workshop,Workshop,Competitive and collaborative event exploring innovations in Technology.,Hyderabad,BITS Pilani,1729
+753,UI UX Festival,Sports,"Explore advanced concepts, projects, and future trends in UI UX.",Bangalore,COEP Pune,2763
+754,Blockchain Championship,Workshop,Competitive and collaborative event exploring innovations in Blockchain.,Chennai,BITS Pilani,2447
+755,Cloud Computing Bootcamp,Business,Join students and professionals for an immersive Cloud Computing experience.,Chennai,BITS Pilani,4782
+756,Startup Innovation Summit,Sports,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,2668
+757,Dance Research Talk,Hackathon,Hands-on learning and networking opportunity focused on Dance.,Chennai,RCOEM Nagpur,3744
+758,Technology Festival,Cultural,"Explore advanced concepts, projects, and future trends in Technology.",Chennai,PICT Pune,1606
+759,AI Bootcamp,Coding,Join students and professionals for an immersive AI experience.,Pune,YCCE Nagpur,1467
+760,Startup Innovation Summit,Workshop,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Kolkata,NIT Trichy,540
+761,AI Seminar,Workshop,"Explore advanced concepts, projects, and future trends in AI.",Pune,RCOEM Nagpur,1372
+762,Coding Seminar,Music,Hands-on learning and networking opportunity focused on Coding.,Delhi,RCOEM Nagpur,3730
+763,Robotics Bootcamp,Sports,"Explore advanced concepts, projects, and future trends in Robotics.",Nagpur,VNIT Nagpur,3023
+764,Dance Championship,Seminar,Competitive and collaborative event exploring innovations in Dance.,Bangalore,NIT Trichy,3744
+765,Robotics Expo,Hackathon,Join students and professionals for an immersive Robotics experience.,Jaipur,IIT Delhi,4720
+766,Data Science Expo,Coding,"Explore advanced concepts, projects, and future trends in Data Science.",Hyderabad,IIT Delhi,4520
+767,Cricket Innovation Summit,Coding,Competitive and collaborative event exploring innovations in Cricket.,Hyderabad,VIT Pune,2228
+768,Robotics Research Talk,Tech,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Ahmedabad,PICT Pune,2917
+769,Music Championship,Tech,"Explore advanced concepts, projects, and future trends in Music.",Kolkata,IIT Delhi,2554
+770,AI Seminar,Hackathon,Hands-on learning and networking opportunity focused on AI.,Delhi,VNIT Nagpur,4590
+771,Technology Hackathon,Seminar,Competitive and collaborative event exploring innovations in Technology.,Chennai,VIT Pune,2147
+772,Cybersecurity Seminar,Music,Competitive and collaborative event exploring innovations in Cybersecurity.,Bangalore,IIT Bombay,3558
+773,Cricket Expo,Coding,"Explore advanced concepts, projects, and future trends in Cricket.",Bangalore,NIT Trichy,2302
+774,Data Science Hackathon,Sports,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Mumbai,RCOEM Nagpur,1004
+775,Cloud Computing Festival,Coding,Competitive and collaborative event exploring innovations in Cloud Computing.,Jaipur,IIT Delhi,1638
+776,Advanced Dance Workshop,Tech,Join students and professionals for an immersive Dance experience.,Ahmedabad,VNIT Nagpur,1623
+777,Hackathons Research Talk,Sports,Hands-on learning and networking opportunity focused on Hackathons.,Kolkata,VNIT Nagpur,2007
+778,Coding Bootcamp,Cultural,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Delhi,COEP Pune,3542
+779,Music Championship,Cultural,Hands-on learning and networking opportunity focused on Music.,Nagpur,COEP Pune,757
+780,Advanced Robotics Workshop,Gaming,Hands-on learning and networking opportunity focused on Robotics.,Pune,NIT Trichy,3951
+781,Cybersecurity Hackathon,Gaming,Hands-on learning and networking opportunity focused on Cybersecurity.,Nagpur,IIT Bombay,2139
+782,Startup Championship,Tech,Join students and professionals for an immersive Startup experience.,Delhi,IIT Delhi,869
+783,Blockchain Hackathon,Gaming,Competitive and collaborative event exploring innovations in Blockchain.,Bangalore,COEP Pune,1399
+784,Machine Learning Expo,Workshop,"Explore advanced concepts, projects, and future trends in Machine Learning.",Bangalore,IIT Delhi,2547
+785,Football Meetup,Music,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Pune,YCCE Nagpur,3656
+786,Advanced Dance Workshop,Coding,Join students and professionals for an immersive Dance experience.,Jaipur,IIT Bombay,3342
+787,Advanced Cricket Workshop,Hackathon,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Kolkata,BITS Pilani,1369
+788,Technology Innovation Summit,Sports,Join students and professionals for an immersive Technology experience.,Kolkata,IIT Bombay,2872
+789,Advanced Machine Learning Workshop,Sports,Hands-on learning and networking opportunity focused on Machine Learning.,Ahmedabad,IIT Bombay,1130
+790,Web Development Hackathon,Seminar,Hands-on learning and networking opportunity focused on Web Development.,Hyderabad,IIT Delhi,1680
+791,AI Seminar,Sports,Hands-on learning and networking opportunity focused on AI.,Bangalore,VNIT Nagpur,4075
+792,Cloud Computing Expo,Seminar,Hands-on learning and networking opportunity focused on Cloud Computing.,Kolkata,YCCE Nagpur,4742
+793,Cybersecurity Expo,Business,Hands-on learning and networking opportunity focused on Cybersecurity.,Kolkata,RCOEM Nagpur,4642
+794,Cybersecurity Innovation Summit,Sports,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Kolkata,RCOEM Nagpur,2257
+795,IoT Meetup,Tech,Competitive and collaborative event exploring innovations in IoT.,Ahmedabad,VIT Pune,1619
+796,AI Festival,Hackathon,Hands-on learning and networking opportunity focused on AI.,Delhi,COEP Pune,618
+797,IoT Seminar,Seminar,Join students and professionals for an immersive IoT experience.,Kolkata,NIT Trichy,1362
+798,Entrepreneurship Research Talk,Gaming,Hands-on learning and networking opportunity focused on Entrepreneurship.,Hyderabad,IIT Bombay,888
+799,Blockchain Innovation Summit,Sports,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Mumbai,VNIT Nagpur,1755
+800,Hackathons Championship,Workshop,Join students and professionals for an immersive Hackathons experience.,Nagpur,BITS Pilani,3283
+801,Web Development Expo,Hackathon,"Explore advanced concepts, projects, and future trends in Web Development.",Bangalore,VNIT Nagpur,3101
+802,Cricket Festival,Tech,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Delhi,IIT Delhi,755
+803,Advanced Cloud Computing Workshop,Seminar,Hands-on learning and networking opportunity focused on Cloud Computing.,Chennai,COEP Pune,577
+804,Entrepreneurship Research Talk,Tech,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Pune,RCOEM Nagpur,738
+805,Football Expo,Workshop,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Delhi,NIT Trichy,3256
+806,Football Hackathon,Music,"Explore advanced concepts, projects, and future trends in Football.",Jaipur,PICT Pune,4674
+807,IoT Seminar,Hackathon,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Hyderabad,IIT Delhi,3598
+808,Hackathons Bootcamp,Seminar,Join students and professionals for an immersive Hackathons experience.,Chennai,NIT Trichy,2864
+809,Cybersecurity Expo,Cultural,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Hyderabad,COEP Pune,4606
+810,Dance Meetup,Gaming,Competitive and collaborative event exploring innovations in Dance.,Hyderabad,BITS Pilani,2071
+811,UI UX Expo,Gaming,Join students and professionals for an immersive UI UX experience.,Ahmedabad,RCOEM Nagpur,3049
+812,Cloud Computing Championship,Tech,Competitive and collaborative event exploring innovations in Cloud Computing.,Nagpur,RCOEM Nagpur,4980
+813,AI Expo,Coding,Join students and professionals for an immersive AI experience.,Nagpur,RCOEM Nagpur,1917
+814,Football Meetup,Coding,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Ahmedabad,NIT Trichy,4657
+815,UI UX Festival,Workshop,Join students and professionals for an immersive UI UX experience.,Nagpur,IIT Delhi,3013
+816,Robotics Bootcamp,Business,Hands-on learning and networking opportunity focused on Robotics.,Jaipur,YCCE Nagpur,2008
+817,Gaming Research Talk,Hackathon,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Chennai,BITS Pilani,1881
+818,Coding Meetup,Sports,Competitive and collaborative event exploring innovations in Coding.,Kolkata,BITS Pilani,881
+819,Entrepreneurship Research Talk,Hackathon,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Chennai,IIT Bombay,558
+820,Dance Meetup,Gaming,Competitive and collaborative event exploring innovations in Dance.,Pune,YCCE Nagpur,193
+821,Advanced Startup Workshop,Seminar,Hands-on learning and networking opportunity focused on Startup.,Nagpur,COEP Pune,4523
+822,UI UX Bootcamp,Seminar,Hands-on learning and networking opportunity focused on UI UX.,Delhi,PICT Pune,513
+823,Startup Championship,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Ahmedabad,IIT Bombay,1919
+824,Data Science Research Talk,Sports,Competitive and collaborative event exploring innovations in Data Science.,Mumbai,COEP Pune,776
+825,Web Development Festival,Seminar,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Chennai,RCOEM Nagpur,796
+826,Startup Expo,Sports,Competitive and collaborative event exploring innovations in Startup.,Mumbai,IIT Delhi,4681
+827,Football Championship,Hackathon,Competitive and collaborative event exploring innovations in Football.,Delhi,NIT Trichy,4394
+828,Cricket Hackathon,Coding,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Chennai,COEP Pune,4818
+829,Coding Innovation Summit,Gaming,Competitive and collaborative event exploring innovations in Coding.,Hyderabad,COEP Pune,1660
+830,Dance Meetup,Tech,"Explore advanced concepts, projects, and future trends in Dance.",Bangalore,PICT Pune,2964
+831,Entrepreneurship Championship,Sports,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Kolkata,VNIT Nagpur,2012
+832,Football Meetup,Workshop,Join students and professionals for an immersive Football experience.,Pune,VNIT Nagpur,2091
+833,Entrepreneurship Bootcamp,Tech,Hands-on learning and networking opportunity focused on Entrepreneurship.,Hyderabad,IIT Bombay,2599
+834,Cloud Computing Championship,Business,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Delhi,NIT Trichy,1835
+835,Football Expo,Coding,"Explore advanced concepts, projects, and future trends in Football.",Ahmedabad,IIT Delhi,1257
+836,AI Seminar,Seminar,"Explore advanced concepts, projects, and future trends in AI.",Nagpur,RCOEM Nagpur,1495
+837,Machine Learning Research Talk,Hackathon,Join students and professionals for an immersive Machine Learning experience.,Bangalore,VNIT Nagpur,3908
+838,AI Innovation Summit,Coding,Competitive and collaborative event exploring innovations in AI.,Hyderabad,IIT Bombay,256
+839,Music Seminar,Gaming,Join students and professionals for an immersive Music experience.,Ahmedabad,IIT Bombay,2684
+840,Web Development Festival,Workshop,"Explore advanced concepts, projects, and future trends in Web Development.",Mumbai,YCCE Nagpur,4201
+841,Cloud Computing Expo,Tech,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Delhi,NIT Trichy,2597
+842,Dance Championship,Sports,Competitive and collaborative event exploring innovations in Dance.,Nagpur,COEP Pune,2982
+843,Technology Research Talk,Seminar,Join students and professionals for an immersive Technology experience.,Bangalore,VNIT Nagpur,2210
+844,Advanced Startup Workshop,Coding,"Explore advanced concepts, projects, and future trends in Startup.",Delhi,PICT Pune,2899
+845,Startup Bootcamp,Gaming,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Ahmedabad,BITS Pilani,1963
+846,Data Science Hackathon,Sports,"Explore advanced concepts, projects, and future trends in Data Science.",Chennai,RCOEM Nagpur,2797
+847,Cloud Computing Expo,Music,Join students and professionals for an immersive Cloud Computing experience.,Mumbai,BITS Pilani,4534
+848,Football Bootcamp,Seminar,Hands-on learning and networking opportunity focused on Football.,Mumbai,VIT Pune,1289
+849,UI UX Bootcamp,Workshop,Hands-on learning and networking opportunity focused on UI UX.,Ahmedabad,NIT Trichy,1069
+850,Cybersecurity Meetup,Tech,Join students and professionals for an immersive Cybersecurity experience.,Hyderabad,VIT Pune,3468
+851,Music Championship,Sports,Hands-on learning and networking opportunity focused on Music.,Delhi,IIT Bombay,1177
+852,Advanced Cybersecurity Workshop,Hackathon,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Bangalore,BITS Pilani,4745
+853,Entrepreneurship Hackathon,Music,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Delhi,VNIT Nagpur,3043
+854,Coding Championship,Seminar,Join students and professionals for an immersive Coding experience.,Jaipur,IIT Delhi,3163
+855,Cybersecurity Seminar,Cultural,Competitive and collaborative event exploring innovations in Cybersecurity.,Mumbai,PICT Pune,1683
+856,Advanced Cricket Workshop,Tech,Competitive and collaborative event exploring innovations in Cricket.,Bangalore,VIT Pune,1923
+857,Football Hackathon,Sports,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Kolkata,BITS Pilani,4113
+858,Dance Championship,Gaming,Join students and professionals for an immersive Dance experience.,Chennai,VNIT Nagpur,3216
+859,Dance Seminar,Hackathon,"Explore advanced concepts, projects, and future trends in Dance.",Jaipur,NIT Trichy,4402
+860,Machine Learning Expo,Cultural,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Kolkata,VNIT Nagpur,2112
+861,Blockchain Expo,Tech,Competitive and collaborative event exploring innovations in Blockchain.,Ahmedabad,VIT Pune,4328
+862,Machine Learning Hackathon,Cultural,Hands-on learning and networking opportunity focused on Machine Learning.,Chennai,RCOEM Nagpur,2442
+863,Cloud Computing Bootcamp,Coding,Competitive and collaborative event exploring innovations in Cloud Computing.,Jaipur,VNIT Nagpur,4335
+864,Robotics Championship,Workshop,Competitive and collaborative event exploring innovations in Robotics.,Ahmedabad,IIT Bombay,1572
+865,UI UX Expo,Gaming,Join students and professionals for an immersive UI UX experience.,Chennai,COEP Pune,3793
+866,AI Bootcamp,Hackathon,Competitive and collaborative event exploring innovations in AI.,Delhi,IIT Delhi,838
+867,Gaming Meetup,Workshop,Join students and professionals for an immersive Gaming experience.,Pune,IIT Bombay,3781
+868,Technology Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in Technology.",Ahmedabad,BITS Pilani,1409
+869,Startup Expo,Tech,Competitive and collaborative event exploring innovations in Startup.,Mumbai,COEP Pune,4732
+870,Robotics Bootcamp,Sports,Join students and professionals for an immersive Robotics experience.,Nagpur,VIT Pune,2623
+871,Music Championship,Sports,Hands-on learning and networking opportunity focused on Music.,Pune,PICT Pune,1761
+872,AI Festival,Tech,Hands-on learning and networking opportunity focused on AI.,Kolkata,IIT Delhi,4184
+873,Advanced IoT Workshop,Cultural,"Explore advanced concepts, projects, and future trends in IoT.",Delhi,YCCE Nagpur,4923
+874,Web Development Championship,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Pune,BITS Pilani,153
+875,Cricket Expo,Hackathon,Hands-on learning and networking opportunity focused on Cricket.,Ahmedabad,YCCE Nagpur,500
+876,Cybersecurity Bootcamp,Business,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Nagpur,PICT Pune,365
+877,UI UX Festival,Business,Hands-on learning and networking opportunity focused on UI UX.,Pune,VNIT Nagpur,992
+878,Data Science Bootcamp,Coding,Join students and professionals for an immersive Data Science experience.,Jaipur,BITS Pilani,4788
+879,IoT Bootcamp,Hackathon,Competitive and collaborative event exploring innovations in IoT.,Hyderabad,VNIT Nagpur,862
+880,Music Meetup,Gaming,Hands-on learning and networking opportunity focused on Music.,Pune,VIT Pune,4609
+881,Coding Research Talk,Sports,Competitive and collaborative event exploring innovations in Coding.,Pune,RCOEM Nagpur,2796
+882,Blockchain Seminar,Music,"Explore advanced concepts, projects, and future trends in Blockchain.",Delhi,BITS Pilani,576
+883,Hackathons Festival,Workshop,"Explore advanced concepts, projects, and future trends in Hackathons.",Kolkata,BITS Pilani,2452
+884,Data Science Festival,Coding,Hands-on learning and networking opportunity focused on Data Science.,Ahmedabad,BITS Pilani,2998
+885,Robotics Festival,Cultural,"Explore advanced concepts, projects, and future trends in Robotics.",Ahmedabad,IIT Delhi,4134
+886,Cybersecurity Festival,Coding,Join students and professionals for an immersive Cybersecurity experience.,Delhi,VNIT Nagpur,1068
+887,AI Championship,Music,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Jaipur,VIT Pune,3491
+888,Machine Learning Meetup,Seminar,Hands-on learning and networking opportunity focused on Machine Learning.,Delhi,VNIT Nagpur,1748
+889,Music Research Talk,Coding,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Bangalore,NIT Trichy,4605
+890,Advanced Dance Workshop,Business,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Hyderabad,VIT Pune,4760
+891,Advanced Entrepreneurship Workshop,Music,Join students and professionals for an immersive Entrepreneurship experience.,Hyderabad,COEP Pune,4024
+892,Advanced Web Development Workshop,Cultural,Join students and professionals for an immersive Web Development experience.,Mumbai,IIT Delhi,4498
+893,Dance Championship,Tech,Competitive and collaborative event exploring innovations in Dance.,Ahmedabad,RCOEM Nagpur,4728
+894,Dance Expo,Tech,"Explore advanced concepts, projects, and future trends in Dance.",Delhi,BITS Pilani,2817
+895,Technology Innovation Summit,Coding,Join students and professionals for an immersive Technology experience.,Nagpur,COEP Pune,3173
+896,IoT Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in IoT.",Chennai,PICT Pune,4975
+897,Hackathons Research Talk,Tech,Hands-on learning and networking opportunity focused on Hackathons.,Bangalore,VIT Pune,811
+898,Web Development Hackathon,Cultural,Hands-on learning and networking opportunity focused on Web Development.,Bangalore,YCCE Nagpur,4401
+899,Music Bootcamp,Business,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Nagpur,YCCE Nagpur,858
+900,Cloud Computing Expo,Cultural,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Ahmedabad,PICT Pune,1658
+901,Dance Championship,Coding,"Explore advanced concepts, projects, and future trends in Dance.",Hyderabad,PICT Pune,904
+902,Blockchain Bootcamp,Tech,Join students and professionals for an immersive Blockchain experience.,Kolkata,VIT Pune,4379
+903,Advanced Hackathons Workshop,Tech,Hands-on learning and networking opportunity focused on Hackathons.,Jaipur,IIT Bombay,2830
+904,Advanced Cloud Computing Workshop,Seminar,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Bangalore,VNIT Nagpur,4831
+905,Music Hackathon,Music,Hands-on learning and networking opportunity focused on Music.,Delhi,RCOEM Nagpur,2366
+906,IoT Meetup,Workshop,Competitive and collaborative event exploring innovations in IoT.,Bangalore,PICT Pune,1390
+907,Gaming Innovation Summit,Hackathon,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Ahmedabad,NIT Trichy,938
+908,Football Expo,Seminar,Hands-on learning and networking opportunity focused on Football.,Hyderabad,RCOEM Nagpur,1259
+909,Music Festival,Sports,Join students and professionals for an immersive Music experience.,Pune,RCOEM Nagpur,2874
+910,IoT Championship,Sports,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,IIT Delhi,513
+911,Hackathons Seminar,Workshop,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Chennai,VIT Pune,1566
+912,Entrepreneurship Festival,Hackathon,Competitive and collaborative event exploring innovations in Entrepreneurship.,Hyderabad,RCOEM Nagpur,2822
+913,Football Expo,Cultural,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Jaipur,PICT Pune,861
+914,Cloud Computing Innovation Summit,Coding,Competitive and collaborative event exploring innovations in Cloud Computing.,Kolkata,IIT Delhi,1998
+915,Cricket Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in Cricket.",Hyderabad,VIT Pune,1602
+916,Dance Meetup,Cultural,Competitive and collaborative event exploring innovations in Dance.,Nagpur,IIT Bombay,3993
+917,Hackathons Meetup,Cultural,Competitive and collaborative event exploring innovations in Hackathons.,Mumbai,RCOEM Nagpur,2955
+918,Entrepreneurship Festival,Seminar,Join students and professionals for an immersive Entrepreneurship experience.,Pune,VIT Pune,976
+919,Dance Expo,Coding,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Ahmedabad,IIT Delhi,3383
+920,UI UX Seminar,Hackathon,Join students and professionals for an immersive UI UX experience.,Delhi,NIT Trichy,1402
+921,Web Development Seminar,Business,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Delhi,BITS Pilani,3631
+922,Data Science Festival,Seminar,Hands-on learning and networking opportunity focused on Data Science.,Delhi,PICT Pune,738
+923,UI UX Championship,Hackathon,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Jaipur,IIT Delhi,2765
+924,IoT Innovation Summit,Sports,Competitive and collaborative event exploring innovations in IoT.,Bangalore,VIT Pune,670
+925,Entrepreneurship Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Hyderabad,IIT Delhi,603
+926,Coding Hackathon,Hackathon,Join students and professionals for an immersive Coding experience.,Nagpur,PICT Pune,1322
+927,Cloud Computing Expo,Gaming,Hands-on learning and networking opportunity focused on Cloud Computing.,Jaipur,BITS Pilani,3763
+928,Football Hackathon,Coding,Hands-on learning and networking opportunity focused on Football.,Jaipur,RCOEM Nagpur,3661
+929,Technology Innovation Summit,Tech,"Explore advanced concepts, projects, and future trends in Technology.",Jaipur,NIT Trichy,3411
+930,Robotics Research Talk,Business,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Ahmedabad,VNIT Nagpur,106
+931,IoT Meetup,Coding,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,YCCE Nagpur,3636
+932,UI UX Seminar,Gaming,Hands-on learning and networking opportunity focused on UI UX.,Chennai,VIT Pune,3665
+933,IoT Hackathon,Cultural,Join students and professionals for an immersive IoT experience.,Mumbai,YCCE Nagpur,4650
+934,Startup Meetup,Sports,Competitive and collaborative event exploring innovations in Startup.,Bangalore,PICT Pune,1200
+935,AI Innovation Summit,Sports,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Kolkata,VIT Pune,1212
+936,Coding Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Coding.,Jaipur,VIT Pune,1572
+937,Cloud Computing Expo,Seminar,Competitive and collaborative event exploring innovations in Cloud Computing.,Kolkata,VIT Pune,3010
+938,Cricket Bootcamp,Hackathon,Competitive and collaborative event exploring innovations in Cricket.,Nagpur,BITS Pilani,4180
+939,Cricket Expo,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Ahmedabad,BITS Pilani,3106
+940,Advanced Machine Learning Workshop,Cultural,"Explore advanced concepts, projects, and future trends in Machine Learning.",Hyderabad,IIT Bombay,4853
+941,Web Development Innovation Summit,Seminar,Join students and professionals for an immersive Web Development experience.,Bangalore,IIT Delhi,4334
+942,Coding Expo,Workshop,"Explore advanced concepts, projects, and future trends in Coding.",Delhi,IIT Delhi,739
+943,IoT Festival,Hackathon,Hands-on learning and networking opportunity focused on IoT.,Nagpur,COEP Pune,4482
+944,AI Championship,Seminar,Competitive and collaborative event exploring innovations in AI.,Kolkata,BITS Pilani,2815
+945,Data Science Meetup,Coding,Hands-on learning and networking opportunity focused on Data Science.,Mumbai,VNIT Nagpur,4995
+946,Music Festival,Tech,Hands-on learning and networking opportunity focused on Music.,Kolkata,BITS Pilani,1485
+947,Advanced UI UX Workshop,Hackathon,Hands-on learning and networking opportunity focused on UI UX.,Nagpur,RCOEM Nagpur,4071
+948,Coding Bootcamp,Workshop,"Explore advanced concepts, projects, and future trends in Coding.",Bangalore,RCOEM Nagpur,1185
+949,Entrepreneurship Research Talk,Coding,Hands-on learning and networking opportunity focused on Entrepreneurship.,Nagpur,IIT Bombay,1530
+950,UI UX Bootcamp,Business,Competitive and collaborative event exploring innovations in UI UX.,Mumbai,RCOEM Nagpur,2034
+951,Web Development Bootcamp,Tech,"Explore advanced concepts, projects, and future trends in Web Development.",Hyderabad,IIT Bombay,1288
+952,Entrepreneurship Bootcamp,Gaming,Competitive and collaborative event exploring innovations in Entrepreneurship.,Chennai,YCCE Nagpur,3705
+953,Cybersecurity Hackathon,Business,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Nagpur,RCOEM Nagpur,1050
+954,Machine Learning Bootcamp,Gaming,Competitive and collaborative event exploring innovations in Machine Learning.,Kolkata,RCOEM Nagpur,4001
+955,IoT Hackathon,Gaming,Competitive and collaborative event exploring innovations in IoT.,Kolkata,RCOEM Nagpur,1289
+956,Blockchain Seminar,Coding,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Kolkata,VIT Pune,2686
+957,Advanced Blockchain Workshop,Seminar,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Hyderabad,VIT Pune,2333
+958,Dance Research Talk,Workshop,Hands-on learning and networking opportunity focused on Dance.,Bangalore,BITS Pilani,3304
+959,Cloud Computing Hackathon,Music,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Ahmedabad,COEP Pune,1573
+960,Dance Expo,Tech,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Pune,VNIT Nagpur,3468
+961,Hackathons Expo,Cultural,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,2420
+962,Gaming Hackathon,Tech,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Jaipur,IIT Bombay,565
+963,Entrepreneurship Hackathon,Workshop,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Pune,IIT Bombay,1164
+964,Startup Festival,Workshop,Join students and professionals for an immersive Startup experience.,Mumbai,RCOEM Nagpur,2513
+965,Cloud Computing Innovation Summit,Coding,Competitive and collaborative event exploring innovations in Cloud Computing.,Chennai,COEP Pune,2208
+966,Cybersecurity Innovation Summit,Tech,Hands-on learning and networking opportunity focused on Cybersecurity.,Chennai,VIT Pune,2825
+967,Machine Learning Research Talk,Sports,Hands-on learning and networking opportunity focused on Machine Learning.,Kolkata,IIT Bombay,4128
+968,Football Festival,Sports,Competitive and collaborative event exploring innovations in Football.,Kolkata,IIT Bombay,1278
+969,IoT Seminar,Hackathon,Join students and professionals for an immersive IoT experience.,Pune,IIT Delhi,2221
+970,Advanced Hackathons Workshop,Workshop,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Jaipur,RCOEM Nagpur,3752
+971,AI Championship,Tech,Join students and professionals for an immersive AI experience.,Nagpur,VIT Pune,2282
+972,Robotics Meetup,Hackathon,Competitive and collaborative event exploring innovations in Robotics.,Nagpur,NIT Trichy,4119
+973,Web Development Seminar,Workshop,Competitive and collaborative event exploring innovations in Web Development.,Ahmedabad,YCCE Nagpur,127
+974,Startup Championship,Hackathon,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Ahmedabad,COEP Pune,2831
+975,Music Seminar,Workshop,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Hyderabad,NIT Trichy,2885
+976,Coding Championship,Music,Hands-on learning and networking opportunity focused on Coding.,Mumbai,NIT Trichy,422
+977,Startup Hackathon,Gaming,Hands-on learning and networking opportunity focused on Startup.,Pune,COEP Pune,4085
+978,Coding Championship,Sports,Join students and professionals for an immersive Coding experience.,Nagpur,YCCE Nagpur,307
+979,UI UX Hackathon,Gaming,Competitive and collaborative event exploring innovations in UI UX.,Pune,NIT Trichy,2620
+980,Web Development Expo,Tech,Competitive and collaborative event exploring innovations in Web Development.,Nagpur,COEP Pune,559
+981,Advanced Dance Workshop,Workshop,Competitive and collaborative event exploring innovations in Dance.,Delhi,NIT Trichy,3854
+982,IoT Bootcamp,Music,"Explore advanced concepts, projects, and future trends in IoT.",Pune,VNIT Nagpur,1259
+983,Advanced Web Development Workshop,Hackathon,Competitive and collaborative event exploring innovations in Web Development.,Nagpur,YCCE Nagpur,1169
+984,AI Bootcamp,Coding,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Pune,IIT Delhi,1498
+985,UI UX Innovation Summit,Workshop,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Kolkata,BITS Pilani,1906
+986,Coding Hackathon,Business,Competitive and collaborative event exploring innovations in Coding.,Chennai,COEP Pune,1089
+987,UI UX Expo,Business,Join students and professionals for an immersive UI UX experience.,Delhi,VNIT Nagpur,4958
+988,Cybersecurity Meetup,Workshop,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Bangalore,PICT Pune,3500
+989,Cybersecurity Meetup,Sports,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Kolkata,YCCE Nagpur,4867
+990,Machine Learning Bootcamp,Hackathon,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Chennai,PICT Pune,228
+991,Web Development Innovation Summit,Tech,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Mumbai,IIT Bombay,4963
+992,Music Seminar,Sports,Competitive and collaborative event exploring innovations in Music.,Delhi,PICT Pune,2319
+993,Blockchain Championship,Music,Competitive and collaborative event exploring innovations in Blockchain.,Mumbai,BITS Pilani,408
+994,Entrepreneurship Bootcamp,Hackathon,Competitive and collaborative event exploring innovations in Entrepreneurship.,Pune,RCOEM Nagpur,2949
+995,Advanced Data Science Workshop,Music,"Explore advanced concepts, projects, and future trends in Data Science.",Delhi,IIT Bombay,4443
+996,Hackathons Festival,Seminar,Hands-on learning and networking opportunity focused on Hackathons.,Ahmedabad,YCCE Nagpur,3902
+997,Football Research Talk,Music,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Pune,PICT Pune,3986
+998,Web Development Bootcamp,Tech,Join students and professionals for an immersive Web Development experience.,Nagpur,COEP Pune,2435
+999,Football Seminar,Business,Hands-on learning and networking opportunity focused on Football.,Jaipur,IIT Delhi,454
+1000,Advanced Hackathons Workshop,Sports,"Explore advanced concepts, projects, and future trends in Hackathons.",Mumbai,VNIT Nagpur,4073
+1001,Blockchain Innovation Summit,Music,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Kolkata,BITS Pilani,4849
+1002,Dance Seminar,Business,Join students and professionals for an immersive Dance experience.,Delhi,IIT Bombay,2771
+1003,Cricket Innovation Summit,Gaming,Join students and professionals for an immersive Cricket experience.,Delhi,VIT Pune,1907
+1004,Coding Championship,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Nagpur,VIT Pune,1287
+1005,Football Festival,Sports,Competitive and collaborative event exploring innovations in Football.,Chennai,COEP Pune,1217
+1006,Cloud Computing Hackathon,Coding,Hands-on learning and networking opportunity focused on Cloud Computing.,Delhi,COEP Pune,1142
+1007,Machine Learning Festival,Coding,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Mumbai,IIT Bombay,3913
+1008,Cloud Computing Seminar,Business,Join students and professionals for an immersive Cloud Computing experience.,Delhi,RCOEM Nagpur,1384
+1009,Entrepreneurship Bootcamp,Seminar,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Delhi,IIT Bombay,3472
+1010,Blockchain Championship,Hackathon,Join students and professionals for an immersive Blockchain experience.,Kolkata,IIT Delhi,2386
+1011,AI Seminar,Music,Join students and professionals for an immersive AI experience.,Hyderabad,VIT Pune,4846
+1012,Cricket Festival,Hackathon,Join students and professionals for an immersive Cricket experience.,Nagpur,VIT Pune,462
+1013,Machine Learning Championship,Tech,"Explore advanced concepts, projects, and future trends in Machine Learning.",Chennai,NIT Trichy,3330
+1014,Web Development Innovation Summit,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Delhi,IIT Bombay,4675
+1015,AI Seminar,Sports,Join students and professionals for an immersive AI experience.,Hyderabad,RCOEM Nagpur,2058
+1016,Advanced Coding Workshop,Coding,Competitive and collaborative event exploring innovations in Coding.,Mumbai,IIT Delhi,4772
+1017,Advanced UI UX Workshop,Cultural,Competitive and collaborative event exploring innovations in UI UX.,Mumbai,VIT Pune,1615
+1018,Technology Championship,Workshop,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Chennai,COEP Pune,4449
+1019,Machine Learning Research Talk,Coding,Competitive and collaborative event exploring innovations in Machine Learning.,Jaipur,NIT Trichy,4812
+1020,Football Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Football.",Nagpur,NIT Trichy,3081
+1021,Machine Learning Innovation Summit,Business,Competitive and collaborative event exploring innovations in Machine Learning.,Kolkata,BITS Pilani,434
+1022,Technology Meetup,Seminar,Join students and professionals for an immersive Technology experience.,Pune,NIT Trichy,1777
+1023,Robotics Meetup,Seminar,Join students and professionals for an immersive Robotics experience.,Pune,IIT Delhi,4852
+1024,Football Hackathon,Business,Hands-on learning and networking opportunity focused on Football.,Bangalore,NIT Trichy,3564
+1025,Advanced Gaming Workshop,Business,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Hyderabad,IIT Delhi,4083
+1026,Blockchain Expo,Cultural,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Ahmedabad,NIT Trichy,2494
+1027,Cloud Computing Festival,Workshop,Hands-on learning and networking opportunity focused on Cloud Computing.,Delhi,IIT Delhi,815
+1028,Coding Seminar,Coding,Join students and professionals for an immersive Coding experience.,Pune,IIT Bombay,1449
+1029,Gaming Innovation Summit,Cultural,Join students and professionals for an immersive Gaming experience.,Mumbai,YCCE Nagpur,4365
+1030,AI Research Talk,Seminar,Competitive and collaborative event exploring innovations in AI.,Mumbai,IIT Delhi,2940
+1031,Data Science Championship,Coding,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Delhi,IIT Bombay,280
+1032,Cricket Expo,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Jaipur,COEP Pune,2773
+1033,Web Development Festival,Seminar,"Explore advanced concepts, projects, and future trends in Web Development.",Kolkata,IIT Delhi,2591
+1034,UI UX Bootcamp,Sports,Hands-on learning and networking opportunity focused on UI UX.,Bangalore,YCCE Nagpur,4066
+1035,Technology Research Talk,Sports,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Hyderabad,RCOEM Nagpur,3834
+1036,Cybersecurity Festival,Seminar,Join students and professionals for an immersive Cybersecurity experience.,Bangalore,PICT Pune,1536
+1037,Robotics Bootcamp,Workshop,Join students and professionals for an immersive Robotics experience.,Nagpur,COEP Pune,4806
+1038,Robotics Championship,Business,Hands-on learning and networking opportunity focused on Robotics.,Mumbai,YCCE Nagpur,4707
+1039,Machine Learning Meetup,Sports,Hands-on learning and networking opportunity focused on Machine Learning.,Hyderabad,IIT Delhi,4522
+1040,Cybersecurity Expo,Workshop,Hands-on learning and networking opportunity focused on Cybersecurity.,Nagpur,VIT Pune,4191
+1041,Robotics Championship,Sports,Hands-on learning and networking opportunity focused on Robotics.,Nagpur,NIT Trichy,4256
+1042,Dance Research Talk,Coding,Competitive and collaborative event exploring innovations in Dance.,Jaipur,PICT Pune,4730
+1043,Cloud Computing Meetup,Cultural,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Nagpur,PICT Pune,4613
+1044,Hackathons Research Talk,Gaming,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,3753
+1045,Technology Innovation Summit,Tech,Hands-on learning and networking opportunity focused on Technology.,Jaipur,YCCE Nagpur,4879
+1046,Blockchain Hackathon,Music,Hands-on learning and networking opportunity focused on Blockchain.,Nagpur,IIT Bombay,4510
+1047,Cloud Computing Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Delhi,IIT Delhi,2703
+1048,Entrepreneurship Festival,Tech,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Hyderabad,VIT Pune,1311
+1049,Data Science Meetup,Business,Competitive and collaborative event exploring innovations in Data Science.,Nagpur,RCOEM Nagpur,2925
+1050,Technology Research Talk,Seminar,Competitive and collaborative event exploring innovations in Technology.,Pune,YCCE Nagpur,3739
+1051,Data Science Championship,Sports,Hands-on learning and networking opportunity focused on Data Science.,Chennai,VIT Pune,1243
+1052,UI UX Festival,Sports,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Delhi,RCOEM Nagpur,3988
+1053,Blockchain Meetup,Hackathon,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Chennai,IIT Bombay,154
+1054,Data Science Research Talk,Sports,Competitive and collaborative event exploring innovations in Data Science.,Ahmedabad,IIT Delhi,4752
+1055,Robotics Hackathon,Gaming,Join students and professionals for an immersive Robotics experience.,Bangalore,NIT Trichy,4118
+1056,Machine Learning Research Talk,Coding,"Explore advanced concepts, projects, and future trends in Machine Learning.",Kolkata,NIT Trichy,3896
+1057,Advanced Cricket Workshop,Sports,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Bangalore,RCOEM Nagpur,3971
+1058,Hackathons Research Talk,Sports,Competitive and collaborative event exploring innovations in Hackathons.,Kolkata,YCCE Nagpur,333
+1059,Hackathons Research Talk,Workshop,Competitive and collaborative event exploring innovations in Hackathons.,Jaipur,COEP Pune,4860
+1060,Web Development Festival,Coding,Competitive and collaborative event exploring innovations in Web Development.,Kolkata,IIT Bombay,3157
+1061,Blockchain Festival,Coding,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Mumbai,BITS Pilani,579
+1062,Robotics Meetup,Sports,Competitive and collaborative event exploring innovations in Robotics.,Hyderabad,PICT Pune,533
+1063,Gaming Meetup,Business,Competitive and collaborative event exploring innovations in Gaming.,Nagpur,RCOEM Nagpur,2489
+1064,Blockchain Innovation Summit,Music,"Explore advanced concepts, projects, and future trends in Blockchain.",Mumbai,IIT Bombay,1469
+1065,IoT Meetup,Coding,Hands-on learning and networking opportunity focused on IoT.,Bangalore,COEP Pune,885
+1066,IoT Festival,Sports,Hands-on learning and networking opportunity focused on IoT.,Nagpur,PICT Pune,4344
+1067,Music Meetup,Gaming,Competitive and collaborative event exploring innovations in Music.,Hyderabad,PICT Pune,939
+1068,Football Bootcamp,Music,"Explore advanced concepts, projects, and future trends in Football.",Delhi,NIT Trichy,4406
+1069,IoT Expo,Gaming,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Kolkata,IIT Bombay,1054
+1070,Advanced Robotics Workshop,Business,Competitive and collaborative event exploring innovations in Robotics.,Bangalore,COEP Pune,1238
+1071,Cloud Computing Festival,Business,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Mumbai,RCOEM Nagpur,335
+1072,Hackathons Hackathon,Sports,Join students and professionals for an immersive Hackathons experience.,Delhi,RCOEM Nagpur,1126
+1073,Football Bootcamp,Gaming,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Pune,IIT Bombay,254
+1074,Web Development Seminar,Music,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Pune,VNIT Nagpur,4306
+1075,Advanced UI UX Workshop,Workshop,Competitive and collaborative event exploring innovations in UI UX.,Bangalore,VNIT Nagpur,642
+1076,Advanced Music Workshop,Workshop,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Jaipur,YCCE Nagpur,4913
+1077,Football Bootcamp,Tech,Hands-on learning and networking opportunity focused on Football.,Pune,PICT Pune,2372
+1078,UI UX Meetup,Sports,Hands-on learning and networking opportunity focused on UI UX.,Ahmedabad,BITS Pilani,2081
+1079,Blockchain Festival,Workshop,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Jaipur,VNIT Nagpur,4432
+1080,Football Hackathon,Sports,Hands-on learning and networking opportunity focused on Football.,Ahmedabad,VNIT Nagpur,908
+1081,Football Expo,Business,Competitive and collaborative event exploring innovations in Football.,Jaipur,PICT Pune,3701
+1082,Hackathons Bootcamp,Gaming,Hands-on learning and networking opportunity focused on Hackathons.,Chennai,YCCE Nagpur,4312
+1083,Cricket Seminar,Business,Learn cutting edge concepts in Cricket with practical sessions and expert guidance.,Pune,IIT Delhi,1003
+1084,Blockchain Bootcamp,Business,Competitive and collaborative event exploring innovations in Blockchain.,Bangalore,NIT Trichy,432
+1085,Coding Meetup,Workshop,Competitive and collaborative event exploring innovations in Coding.,Chennai,RCOEM Nagpur,3843
+1086,Entrepreneurship Research Talk,Music,Competitive and collaborative event exploring innovations in Entrepreneurship.,Ahmedabad,VIT Pune,2480
+1087,Data Science Hackathon,Cultural,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Hyderabad,PICT Pune,204
+1088,Web Development Innovation Summit,Cultural,Competitive and collaborative event exploring innovations in Web Development.,Ahmedabad,IIT Bombay,1076
+1089,Robotics Seminar,Hackathon,Competitive and collaborative event exploring innovations in Robotics.,Pune,PICT Pune,630
+1090,Technology Hackathon,Music,Hands-on learning and networking opportunity focused on Technology.,Jaipur,VIT Pune,1105
+1091,Cricket Seminar,Coding,Competitive and collaborative event exploring innovations in Cricket.,Jaipur,BITS Pilani,2336
+1092,Startup Meetup,Hackathon,Competitive and collaborative event exploring innovations in Startup.,Chennai,IIT Delhi,4289
+1093,Gaming Bootcamp,Workshop,Competitive and collaborative event exploring innovations in Gaming.,Pune,RCOEM Nagpur,4108
+1094,Web Development Hackathon,Tech,Join students and professionals for an immersive Web Development experience.,Pune,VNIT Nagpur,658
+1095,Advanced Web Development Workshop,Gaming,Join students and professionals for an immersive Web Development experience.,Jaipur,COEP Pune,1351
+1096,Music Festival,Workshop,"Explore advanced concepts, projects, and future trends in Music.",Pune,NIT Trichy,4132
+1097,Cloud Computing Hackathon,Cultural,Hands-on learning and networking opportunity focused on Cloud Computing.,Kolkata,NIT Trichy,2243
+1098,IoT Meetup,Seminar,"Explore advanced concepts, projects, and future trends in IoT.",Nagpur,VNIT Nagpur,3625
+1099,Hackathons Seminar,Business,Competitive and collaborative event exploring innovations in Hackathons.,Chennai,IIT Delhi,3865
+1100,Advanced Machine Learning Workshop,Seminar,Join students and professionals for an immersive Machine Learning experience.,Bangalore,PICT Pune,4126
+1101,Data Science Bootcamp,Gaming,Hands-on learning and networking opportunity focused on Data Science.,Kolkata,IIT Bombay,4760
+1102,Web Development Expo,Hackathon,"Explore advanced concepts, projects, and future trends in Web Development.",Kolkata,IIT Delhi,4705
+1103,Cybersecurity Expo,Gaming,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Bangalore,IIT Delhi,4941
+1104,Startup Festival,Coding,Hands-on learning and networking opportunity focused on Startup.,Hyderabad,VNIT Nagpur,330
+1105,Advanced UI UX Workshop,Business,Join students and professionals for an immersive UI UX experience.,Hyderabad,BITS Pilani,320
+1106,Dance Seminar,Gaming,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Hyderabad,COEP Pune,3474
+1107,Advanced Technology Workshop,Music,Join students and professionals for an immersive Technology experience.,Delhi,RCOEM Nagpur,4954
+1108,Coding Innovation Summit,Workshop,Hands-on learning and networking opportunity focused on Coding.,Hyderabad,PICT Pune,261
+1109,IoT Meetup,Cultural,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Chennai,BITS Pilani,4316
+1110,Data Science Research Talk,Cultural,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Jaipur,VNIT Nagpur,2692
+1111,Startup Festival,Business,Competitive and collaborative event exploring innovations in Startup.,Jaipur,IIT Bombay,4100
+1112,Hackathons Hackathon,Cultural,Hands-on learning and networking opportunity focused on Hackathons.,Ahmedabad,COEP Pune,1465
+1113,Entrepreneurship Research Talk,Gaming,Hands-on learning and networking opportunity focused on Entrepreneurship.,Delhi,IIT Delhi,717
+1114,IoT Hackathon,Coding,Hands-on learning and networking opportunity focused on IoT.,Nagpur,RCOEM Nagpur,4798
+1115,Startup Hackathon,Workshop,"Explore advanced concepts, projects, and future trends in Startup.",Jaipur,IIT Bombay,4948
+1116,Dance Research Talk,Hackathon,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Ahmedabad,IIT Delhi,3598
+1117,Football Meetup,Coding,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Ahmedabad,RCOEM Nagpur,3646
+1118,IoT Meetup,Gaming,Join students and professionals for an immersive IoT experience.,Chennai,RCOEM Nagpur,4321
+1119,Cloud Computing Expo,Tech,Join students and professionals for an immersive Cloud Computing experience.,Ahmedabad,PICT Pune,4825
+1120,Web Development Hackathon,Coding,Competitive and collaborative event exploring innovations in Web Development.,Ahmedabad,BITS Pilani,3653
+1121,Advanced UI UX Workshop,Music,"Explore advanced concepts, projects, and future trends in UI UX.",Hyderabad,IIT Delhi,1310
+1122,Cricket Bootcamp,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Chennai,COEP Pune,627
+1123,Football Seminar,Coding,Hands-on learning and networking opportunity focused on Football.,Mumbai,RCOEM Nagpur,2034
+1124,Startup Hackathon,Sports,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Delhi,VNIT Nagpur,2111
+1125,Music Championship,Seminar,Competitive and collaborative event exploring innovations in Music.,Chennai,VIT Pune,403
+1126,Football Bootcamp,Sports,Hands-on learning and networking opportunity focused on Football.,Nagpur,RCOEM Nagpur,2375
+1127,IoT Bootcamp,Cultural,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,VNIT Nagpur,787
+1128,Dance Festival,Workshop,Hands-on learning and networking opportunity focused on Dance.,Chennai,COEP Pune,839
+1129,Startup Bootcamp,Workshop,Join students and professionals for an immersive Startup experience.,Jaipur,NIT Trichy,1088
+1130,Blockchain Festival,Coding,"Explore advanced concepts, projects, and future trends in Blockchain.",Kolkata,IIT Bombay,2050
+1131,Entrepreneurship Innovation Summit,Business,Hands-on learning and networking opportunity focused on Entrepreneurship.,Jaipur,VIT Pune,2032
+1132,Data Science Hackathon,Workshop,Join students and professionals for an immersive Data Science experience.,Mumbai,YCCE Nagpur,2349
+1133,Cloud Computing Seminar,Hackathon,Hands-on learning and networking opportunity focused on Cloud Computing.,Nagpur,IIT Delhi,4470
+1134,Technology Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on Technology.,Chennai,IIT Delhi,2118
+1135,Gaming Bootcamp,Cultural,Hands-on learning and networking opportunity focused on Gaming.,Hyderabad,RCOEM Nagpur,272
+1136,Advanced Entrepreneurship Workshop,Music,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Bangalore,NIT Trichy,3251
+1137,Music Meetup,Seminar,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Delhi,IIT Delhi,3282
+1138,AI Seminar,Coding,Hands-on learning and networking opportunity focused on AI.,Pune,YCCE Nagpur,2536
+1139,Football Bootcamp,Business,Competitive and collaborative event exploring innovations in Football.,Chennai,VNIT Nagpur,2344
+1140,Coding Championship,Gaming,Competitive and collaborative event exploring innovations in Coding.,Hyderabad,VIT Pune,922
+1141,Cybersecurity Research Talk,Workshop,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Hyderabad,VIT Pune,4586
+1142,Dance Championship,Tech,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Mumbai,IIT Delhi,1214
+1143,AI Seminar,Coding,Join students and professionals for an immersive AI experience.,Hyderabad,BITS Pilani,773
+1144,Hackathons Bootcamp,Seminar,Join students and professionals for an immersive Hackathons experience.,Mumbai,BITS Pilani,3461
+1145,Dance Championship,Sports,Competitive and collaborative event exploring innovations in Dance.,Bangalore,PICT Pune,4958
+1146,Dance Research Talk,Workshop,Join students and professionals for an immersive Dance experience.,Chennai,COEP Pune,1590
+1147,Startup Seminar,Music,"Explore advanced concepts, projects, and future trends in Startup.",Nagpur,VNIT Nagpur,4675
+1148,Entrepreneurship Hackathon,Cultural,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Delhi,RCOEM Nagpur,1482
+1149,Machine Learning Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Machine Learning.",Jaipur,RCOEM Nagpur,1322
+1150,Coding Meetup,Hackathon,Join students and professionals for an immersive Coding experience.,Pune,VNIT Nagpur,4407
+1151,Data Science Championship,Workshop,Competitive and collaborative event exploring innovations in Data Science.,Delhi,YCCE Nagpur,1660
+1152,Gaming Research Talk,Gaming,Competitive and collaborative event exploring innovations in Gaming.,Mumbai,VIT Pune,1792
+1153,Entrepreneurship Hackathon,Music,Hands-on learning and networking opportunity focused on Entrepreneurship.,Chennai,PICT Pune,3446
+1154,Advanced Robotics Workshop,Coding,Hands-on learning and networking opportunity focused on Robotics.,Delhi,BITS Pilani,3794
+1155,Cricket Meetup,Cultural,"Explore advanced concepts, projects, and future trends in Cricket.",Pune,VNIT Nagpur,3941
+1156,Robotics Meetup,Music,Competitive and collaborative event exploring innovations in Robotics.,Chennai,VIT Pune,4992
+1157,Gaming Innovation Summit,Seminar,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Nagpur,VNIT Nagpur,2826
+1158,Cricket Championship,Hackathon,Hands-on learning and networking opportunity focused on Cricket.,Jaipur,VNIT Nagpur,143
+1159,Gaming Expo,Gaming,"Explore advanced concepts, projects, and future trends in Gaming.",Bangalore,VIT Pune,3138
+1160,Robotics Expo,Hackathon,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Mumbai,RCOEM Nagpur,1491
+1161,Blockchain Championship,Cultural,Hands-on learning and networking opportunity focused on Blockchain.,Mumbai,IIT Bombay,2699
+1162,Blockchain Seminar,Coding,Join students and professionals for an immersive Blockchain experience.,Pune,COEP Pune,461
+1163,Robotics Championship,Business,Hands-on learning and networking opportunity focused on Robotics.,Chennai,RCOEM Nagpur,2256
+1164,Entrepreneurship Research Talk,Business,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Chennai,PICT Pune,2684
+1165,Web Development Bootcamp,Cultural,"Explore advanced concepts, projects, and future trends in Web Development.",Nagpur,YCCE Nagpur,1317
+1166,Machine Learning Hackathon,Tech,Join students and professionals for an immersive Machine Learning experience.,Kolkata,RCOEM Nagpur,1439
+1167,Cloud Computing Seminar,Cultural,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Nagpur,IIT Delhi,3020
+1168,IoT Championship,Cultural,Competitive and collaborative event exploring innovations in IoT.,Pune,PICT Pune,1112
+1169,Technology Innovation Summit,Coding,Join students and professionals for an immersive Technology experience.,Mumbai,PICT Pune,4267
+1170,Gaming Festival,Music,"Explore advanced concepts, projects, and future trends in Gaming.",Jaipur,VNIT Nagpur,4409
+1171,UI UX Bootcamp,Workshop,Competitive and collaborative event exploring innovations in UI UX.,Delhi,IIT Delhi,872
+1172,Advanced Dance Workshop,Workshop,Hands-on learning and networking opportunity focused on Dance.,Chennai,COEP Pune,4936
+1173,Hackathons Meetup,Tech,Join students and professionals for an immersive Hackathons experience.,Pune,IIT Delhi,4030
+1174,Cloud Computing Research Talk,Tech,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Hyderabad,VNIT Nagpur,3811
+1175,Dance Festival,Music,Join students and professionals for an immersive Dance experience.,Nagpur,RCOEM Nagpur,2747
+1176,Machine Learning Innovation Summit,Hackathon,"Explore advanced concepts, projects, and future trends in Machine Learning.",Chennai,IIT Bombay,3367
+1177,Gaming Bootcamp,Gaming,Join students and professionals for an immersive Gaming experience.,Pune,VNIT Nagpur,1805
+1178,Cybersecurity Seminar,Coding,Competitive and collaborative event exploring innovations in Cybersecurity.,Mumbai,IIT Bombay,2545
+1179,Web Development Seminar,Hackathon,Hands-on learning and networking opportunity focused on Web Development.,Mumbai,COEP Pune,887
+1180,Technology Expo,Cultural,Join students and professionals for an immersive Technology experience.,Kolkata,VIT Pune,4002
+1181,Gaming Festival,Gaming,"Explore advanced concepts, projects, and future trends in Gaming.",Pune,VIT Pune,3116
+1182,Entrepreneurship Bootcamp,Gaming,Competitive and collaborative event exploring innovations in Entrepreneurship.,Pune,VNIT Nagpur,4305
+1183,Dance Championship,Sports,Join students and professionals for an immersive Dance experience.,Kolkata,NIT Trichy,4398
+1184,Coding Research Talk,Gaming,Competitive and collaborative event exploring innovations in Coding.,Pune,IIT Delhi,2560
+1185,Robotics Bootcamp,Music,Hands-on learning and networking opportunity focused on Robotics.,Ahmedabad,VIT Pune,2520
+1186,Advanced UI UX Workshop,Workshop,"Explore advanced concepts, projects, and future trends in UI UX.",Nagpur,NIT Trichy,981
+1187,Blockchain Seminar,Workshop,Competitive and collaborative event exploring innovations in Blockchain.,Kolkata,BITS Pilani,2175
+1188,Technology Research Talk,Workshop,"Explore advanced concepts, projects, and future trends in Technology.",Ahmedabad,VNIT Nagpur,1033
+1189,Cloud Computing Bootcamp,Gaming,Join students and professionals for an immersive Cloud Computing experience.,Nagpur,IIT Bombay,3509
+1190,Music Meetup,Cultural,"Explore advanced concepts, projects, and future trends in Music.",Kolkata,BITS Pilani,2271
+1191,Dance Bootcamp,Sports,Join students and professionals for an immersive Dance experience.,Pune,BITS Pilani,2224
+1192,Hackathons Seminar,Tech,"Explore advanced concepts, projects, and future trends in Hackathons.",Nagpur,VIT Pune,1055
+1193,AI Bootcamp,Cultural,Competitive and collaborative event exploring innovations in AI.,Chennai,BITS Pilani,4087
+1194,Music Festival,Business,"Explore advanced concepts, projects, and future trends in Music.",Chennai,RCOEM Nagpur,817
+1195,Robotics Bootcamp,Music,Learn cutting edge concepts in Robotics with practical sessions and expert guidance.,Pune,VNIT Nagpur,1641
+1196,AI Hackathon,Sports,Competitive and collaborative event exploring innovations in AI.,Delhi,VIT Pune,4512
+1197,Football Innovation Summit,Cultural,Hands-on learning and networking opportunity focused on Football.,Mumbai,IIT Delhi,3556
+1198,AI Innovation Summit,Sports,Join students and professionals for an immersive AI experience.,Kolkata,IIT Delhi,3962
+1199,AI Championship,Music,"Explore advanced concepts, projects, and future trends in AI.",Delhi,RCOEM Nagpur,4764
+1200,Advanced Startup Workshop,Tech,Hands-on learning and networking opportunity focused on Startup.,Pune,VIT Pune,3505
+1201,Web Development Festival,Seminar,"Explore advanced concepts, projects, and future trends in Web Development.",Bangalore,VNIT Nagpur,4093
+1202,Startup Championship,Hackathon,"Explore advanced concepts, projects, and future trends in Startup.",Jaipur,IIT Delhi,1999
+1203,Machine Learning Expo,Gaming,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Jaipur,COEP Pune,4632
+1204,Coding Research Talk,Cultural,Competitive and collaborative event exploring innovations in Coding.,Pune,IIT Delhi,2940
+1205,Cloud Computing Seminar,Sports,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Bangalore,YCCE Nagpur,3944
+1206,Technology Championship,Seminar,Join students and professionals for an immersive Technology experience.,Delhi,BITS Pilani,2878
+1207,Entrepreneurship Championship,Coding,Join students and professionals for an immersive Entrepreneurship experience.,Chennai,VIT Pune,3051
+1208,Web Development Bootcamp,Music,"Explore advanced concepts, projects, and future trends in Web Development.",Bangalore,IIT Bombay,4055
+1209,Robotics Bootcamp,Sports,Join students and professionals for an immersive Robotics experience.,Jaipur,IIT Delhi,926
+1210,Data Science Championship,Music,Hands-on learning and networking opportunity focused on Data Science.,Delhi,NIT Trichy,485
+1211,AI Meetup,Business,Hands-on learning and networking opportunity focused on AI.,Mumbai,PICT Pune,4224
+1212,Machine Learning Innovation Summit,Gaming,Hands-on learning and networking opportunity focused on Machine Learning.,Pune,BITS Pilani,1957
+1213,Hackathons Expo,Cultural,Join students and professionals for an immersive Hackathons experience.,Bangalore,COEP Pune,3010
+1214,Machine Learning Expo,Sports,Hands-on learning and networking opportunity focused on Machine Learning.,Ahmedabad,BITS Pilani,953
+1215,Machine Learning Championship,Workshop,Competitive and collaborative event exploring innovations in Machine Learning.,Pune,BITS Pilani,934
+1216,Advanced IoT Workshop,Workshop,"Explore advanced concepts, projects, and future trends in IoT.",Mumbai,IIT Bombay,1782
+1217,Technology Bootcamp,Cultural,Hands-on learning and networking opportunity focused on Technology.,Ahmedabad,IIT Delhi,913
+1218,Robotics Meetup,Sports,Hands-on learning and networking opportunity focused on Robotics.,Pune,YCCE Nagpur,3697
+1219,Advanced Data Science Workshop,Cultural,Join students and professionals for an immersive Data Science experience.,Hyderabad,RCOEM Nagpur,4237
+1220,Cybersecurity Innovation Summit,Business,Hands-on learning and networking opportunity focused on Cybersecurity.,Chennai,COEP Pune,2110
+1221,Robotics Expo,Music,Competitive and collaborative event exploring innovations in Robotics.,Mumbai,VIT Pune,3486
+1222,Data Science Championship,Business,"Explore advanced concepts, projects, and future trends in Data Science.",Nagpur,IIT Delhi,1292
+1223,AI Expo,Workshop,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Hyderabad,COEP Pune,3390
+1224,Cybersecurity Seminar,Gaming,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Nagpur,PICT Pune,4806
+1225,Machine Learning Expo,Gaming,Hands-on learning and networking opportunity focused on Machine Learning.,Chennai,NIT Trichy,2593
+1226,Dance Meetup,Coding,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Ahmedabad,BITS Pilani,1303
+1227,Startup Championship,Seminar,Join students and professionals for an immersive Startup experience.,Jaipur,BITS Pilani,3722
+1228,Technology Seminar,Coding,Join students and professionals for an immersive Technology experience.,Pune,VNIT Nagpur,4502
+1229,Dance Seminar,Seminar,Join students and professionals for an immersive Dance experience.,Ahmedabad,RCOEM Nagpur,1850
+1230,Coding Expo,Coding,"Explore advanced concepts, projects, and future trends in Coding.",Ahmedabad,COEP Pune,1410
+1231,Advanced AI Workshop,Hackathon,"Explore advanced concepts, projects, and future trends in AI.",Bangalore,YCCE Nagpur,2589
+1232,Data Science Expo,Tech,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Hyderabad,RCOEM Nagpur,4257
+1233,Technology Innovation Summit,Workshop,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Kolkata,RCOEM Nagpur,4789
+1234,AI Championship,Music,Hands-on learning and networking opportunity focused on AI.,Jaipur,BITS Pilani,4468
+1235,Entrepreneurship Hackathon,Coding,Hands-on learning and networking opportunity focused on Entrepreneurship.,Bangalore,BITS Pilani,1246
+1236,Startup Expo,Workshop,Join students and professionals for an immersive Startup experience.,Hyderabad,NIT Trichy,4870
+1237,Football Meetup,Workshop,Competitive and collaborative event exploring innovations in Football.,Mumbai,VIT Pune,3475
+1238,Coding Innovation Summit,Gaming,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,IIT Delhi,1859
+1239,Cloud Computing Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on Cloud Computing.,Chennai,BITS Pilani,4679
+1240,Blockchain Seminar,Hackathon,Hands-on learning and networking opportunity focused on Blockchain.,Kolkata,VIT Pune,3705
+1241,Web Development Seminar,Sports,Join students and professionals for an immersive Web Development experience.,Ahmedabad,PICT Pune,4071
+1242,Cloud Computing Bootcamp,Seminar,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Pune,YCCE Nagpur,3830
+1243,Advanced Web Development Workshop,Seminar,Join students and professionals for an immersive Web Development experience.,Hyderabad,IIT Bombay,3447
+1244,Hackathons Innovation Summit,Hackathon,Hands-on learning and networking opportunity focused on Hackathons.,Bangalore,VNIT Nagpur,4382
+1245,Robotics Innovation Summit,Coding,Hands-on learning and networking opportunity focused on Robotics.,Hyderabad,RCOEM Nagpur,2508
+1246,Advanced Web Development Workshop,Sports,Join students and professionals for an immersive Web Development experience.,Jaipur,VIT Pune,498
+1247,Music Research Talk,Sports,Join students and professionals for an immersive Music experience.,Kolkata,VNIT Nagpur,1102
+1248,IoT Meetup,Tech,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Chennai,IIT Delhi,4794
+1249,Music Festival,Business,Competitive and collaborative event exploring innovations in Music.,Chennai,IIT Delhi,1187
+1250,Robotics Expo,Cultural,Competitive and collaborative event exploring innovations in Robotics.,Kolkata,PICT Pune,2764
+1251,Coding Festival,Gaming,"Explore advanced concepts, projects, and future trends in Coding.",Chennai,YCCE Nagpur,3339
+1252,Dance Expo,Cultural,Learn cutting edge concepts in Dance with practical sessions and expert guidance.,Bangalore,IIT Bombay,1456
+1253,AI Festival,Seminar,Hands-on learning and networking opportunity focused on AI.,Pune,NIT Trichy,797
+1254,Football Festival,Hackathon,"Explore advanced concepts, projects, and future trends in Football.",Nagpur,BITS Pilani,4374
+1255,Football Championship,Tech,"Explore advanced concepts, projects, and future trends in Football.",Pune,NIT Trichy,1572
+1256,AI Research Talk,Music,Join students and professionals for an immersive AI experience.,Jaipur,IIT Delhi,793
+1257,IoT Festival,Gaming,Hands-on learning and networking opportunity focused on IoT.,Jaipur,VNIT Nagpur,4126
+1258,AI Meetup,Sports,Competitive and collaborative event exploring innovations in AI.,Chennai,VNIT Nagpur,4424
+1259,Dance Seminar,Workshop,Hands-on learning and networking opportunity focused on Dance.,Pune,IIT Bombay,4538
+1260,Cybersecurity Research Talk,Sports,Join students and professionals for an immersive Cybersecurity experience.,Bangalore,IIT Bombay,1363
+1261,Music Seminar,Tech,Join students and professionals for an immersive Music experience.,Jaipur,COEP Pune,1586
+1262,Advanced AI Workshop,Gaming,Hands-on learning and networking opportunity focused on AI.,Pune,COEP Pune,1267
+1263,Data Science Meetup,Gaming,Hands-on learning and networking opportunity focused on Data Science.,Pune,VNIT Nagpur,1759
+1264,Cricket Festival,Music,"Explore advanced concepts, projects, and future trends in Cricket.",Kolkata,NIT Trichy,4232
+1265,Startup Innovation Summit,Tech,Hands-on learning and networking opportunity focused on Startup.,Hyderabad,IIT Delhi,4631
+1266,Data Science Innovation Summit,Tech,Competitive and collaborative event exploring innovations in Data Science.,Chennai,YCCE Nagpur,252
+1267,Gaming Expo,Workshop,"Explore advanced concepts, projects, and future trends in Gaming.",Delhi,NIT Trichy,1128
+1268,Music Festival,Cultural,Competitive and collaborative event exploring innovations in Music.,Pune,NIT Trichy,1766
+1269,Robotics Meetup,Sports,"Explore advanced concepts, projects, and future trends in Robotics.",Delhi,NIT Trichy,3571
+1270,IoT Championship,Tech,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Kolkata,BITS Pilani,2469
+1271,Advanced Cybersecurity Workshop,Cultural,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Bangalore,BITS Pilani,2155
+1272,Startup Meetup,Hackathon,Join students and professionals for an immersive Startup experience.,Ahmedabad,RCOEM Nagpur,472
+1273,Cybersecurity Expo,Workshop,"Explore advanced concepts, projects, and future trends in Cybersecurity.",Bangalore,IIT Bombay,3338
+1274,Hackathons Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in Hackathons.",Chennai,YCCE Nagpur,4235
+1275,Dance Meetup,Cultural,Hands-on learning and networking opportunity focused on Dance.,Bangalore,YCCE Nagpur,2734
+1276,Dance Hackathon,Hackathon,Competitive and collaborative event exploring innovations in Dance.,Hyderabad,VNIT Nagpur,1195
+1277,AI Festival,Tech,Competitive and collaborative event exploring innovations in AI.,Nagpur,PICT Pune,3484
+1278,IoT Championship,Seminar,Competitive and collaborative event exploring innovations in IoT.,Pune,IIT Bombay,4512
+1279,AI Championship,Business,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Chennai,BITS Pilani,3032
+1280,Startup Bootcamp,Workshop,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Kolkata,COEP Pune,1680
+1281,Advanced Cloud Computing Workshop,Tech,Join students and professionals for an immersive Cloud Computing experience.,Bangalore,COEP Pune,1668
+1282,Coding Festival,Music,Hands-on learning and networking opportunity focused on Coding.,Delhi,IIT Delhi,3073
+1283,Machine Learning Research Talk,Hackathon,Competitive and collaborative event exploring innovations in Machine Learning.,Delhi,VNIT Nagpur,1706
+1284,Startup Innovation Summit,Hackathon,Hands-on learning and networking opportunity focused on Startup.,Ahmedabad,IIT Delhi,1496
+1285,IoT Hackathon,Hackathon,"Explore advanced concepts, projects, and future trends in IoT.",Jaipur,PICT Pune,635
+1286,UI UX Bootcamp,Sports,Learn cutting edge concepts in UI UX with practical sessions and expert guidance.,Bangalore,BITS Pilani,1967
+1287,Blockchain Research Talk,Tech,Join students and professionals for an immersive Blockchain experience.,Ahmedabad,BITS Pilani,2171
+1288,IoT Championship,Gaming,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Nagpur,COEP Pune,3643
+1289,Data Science Research Talk,Seminar,Learn cutting edge concepts in Data Science with practical sessions and expert guidance.,Kolkata,IIT Delhi,3061
+1290,Advanced Blockchain Workshop,Tech,Join students and professionals for an immersive Blockchain experience.,Bangalore,VIT Pune,4461
+1291,Cloud Computing Meetup,Gaming,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Delhi,COEP Pune,770
+1292,Advanced UI UX Workshop,Gaming,Join students and professionals for an immersive UI UX experience.,Pune,YCCE Nagpur,1712
+1293,Cybersecurity Meetup,Workshop,Hands-on learning and networking opportunity focused on Cybersecurity.,Pune,VNIT Nagpur,4031
+1294,Advanced Data Science Workshop,Business,"Explore advanced concepts, projects, and future trends in Data Science.",Bangalore,YCCE Nagpur,983
+1295,Web Development Hackathon,Tech,Hands-on learning and networking opportunity focused on Web Development.,Hyderabad,NIT Trichy,2039
+1296,Coding Festival,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Pune,IIT Delhi,4842
+1297,Hackathons Innovation Summit,Tech,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Chennai,COEP Pune,632
+1298,Advanced Robotics Workshop,Tech,Competitive and collaborative event exploring innovations in Robotics.,Bangalore,BITS Pilani,3637
+1299,Coding Innovation Summit,Seminar,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Nagpur,RCOEM Nagpur,3224
+1300,Startup Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in Startup.",Delhi,BITS Pilani,186
+1301,Cloud Computing Seminar,Gaming,Competitive and collaborative event exploring innovations in Cloud Computing.,Jaipur,BITS Pilani,929
+1302,Advanced Dance Workshop,Seminar,Competitive and collaborative event exploring innovations in Dance.,Hyderabad,BITS Pilani,1676
+1303,Hackathons Innovation Summit,Hackathon,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Pune,BITS Pilani,1686
+1304,UI UX Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in UI UX.",Hyderabad,VIT Pune,4043
+1305,Entrepreneurship Championship,Music,Join students and professionals for an immersive Entrepreneurship experience.,Mumbai,VNIT Nagpur,595
+1306,Robotics Research Talk,Gaming,"Explore advanced concepts, projects, and future trends in Robotics.",Ahmedabad,COEP Pune,2649
+1307,UI UX Expo,Sports,Join students and professionals for an immersive UI UX experience.,Kolkata,RCOEM Nagpur,2909
+1308,Music Meetup,Seminar,Learn cutting edge concepts in Music with practical sessions and expert guidance.,Jaipur,PICT Pune,569
+1309,Cricket Expo,Tech,"Explore advanced concepts, projects, and future trends in Cricket.",Chennai,COEP Pune,1700
+1310,Football Hackathon,Business,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Delhi,IIT Delhi,3928
+1311,Entrepreneurship Meetup,Hackathon,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Hyderabad,BITS Pilani,2554
+1312,Data Science Meetup,Workshop,Join students and professionals for an immersive Data Science experience.,Kolkata,VNIT Nagpur,4162
+1313,Advanced Cricket Workshop,Music,Join students and professionals for an immersive Cricket experience.,Kolkata,BITS Pilani,1846
+1314,Cricket Championship,Gaming,Hands-on learning and networking opportunity focused on Cricket.,Delhi,VIT Pune,1609
+1315,AI Meetup,Workshop,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Hyderabad,VNIT Nagpur,4644
+1316,Hackathons Bootcamp,Cultural,Hands-on learning and networking opportunity focused on Hackathons.,Delhi,BITS Pilani,3048
+1317,Advanced Machine Learning Workshop,Music,Join students and professionals for an immersive Machine Learning experience.,Bangalore,PICT Pune,1893
+1318,Gaming Bootcamp,Seminar,Hands-on learning and networking opportunity focused on Gaming.,Delhi,PICT Pune,1705
+1319,AI Bootcamp,Workshop,Hands-on learning and networking opportunity focused on AI.,Nagpur,PICT Pune,3204
+1320,Hackathons Meetup,Coding,Join students and professionals for an immersive Hackathons experience.,Kolkata,YCCE Nagpur,3128
+1321,Technology Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in Technology.",Chennai,IIT Bombay,1070
+1322,Robotics Bootcamp,Music,Join students and professionals for an immersive Robotics experience.,Ahmedabad,VIT Pune,3165
+1323,Dance Festival,Music,Competitive and collaborative event exploring innovations in Dance.,Nagpur,BITS Pilani,4911
+1324,Football Expo,Sports,Hands-on learning and networking opportunity focused on Football.,Hyderabad,YCCE Nagpur,536
+1325,Gaming Bootcamp,Hackathon,"Explore advanced concepts, projects, and future trends in Gaming.",Kolkata,YCCE Nagpur,766
+1326,Web Development Festival,Sports,Learn cutting edge concepts in Web Development with practical sessions and expert guidance.,Ahmedabad,VIT Pune,4271
+1327,Technology Championship,Cultural,"Explore advanced concepts, projects, and future trends in Technology.",Mumbai,COEP Pune,3162
+1328,Blockchain Championship,Cultural,Competitive and collaborative event exploring innovations in Blockchain.,Bangalore,BITS Pilani,3384
+1329,Advanced UI UX Workshop,Music,Join students and professionals for an immersive UI UX experience.,Delhi,IIT Delhi,2020
+1330,Startup Hackathon,Gaming,Hands-on learning and networking opportunity focused on Startup.,Chennai,BITS Pilani,1387
+1331,Technology Research Talk,Workshop,"Explore advanced concepts, projects, and future trends in Technology.",Mumbai,IIT Bombay,2517
+1332,Cloud Computing Expo,Music,Hands-on learning and networking opportunity focused on Cloud Computing.,Jaipur,VNIT Nagpur,3911
+1333,Blockchain Festival,Gaming,Hands-on learning and networking opportunity focused on Blockchain.,Kolkata,IIT Delhi,3643
+1334,Data Science Meetup,Business,Competitive and collaborative event exploring innovations in Data Science.,Bangalore,VIT Pune,302
+1335,Cybersecurity Championship,Coding,Join students and professionals for an immersive Cybersecurity experience.,Pune,COEP Pune,775
+1336,Music Expo,Seminar,"Explore advanced concepts, projects, and future trends in Music.",Pune,RCOEM Nagpur,1965
+1337,Hackathons Innovation Summit,Business,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Nagpur,NIT Trichy,1740
+1338,Dance Hackathon,Coding,Hands-on learning and networking opportunity focused on Dance.,Bangalore,RCOEM Nagpur,1661
+1339,Entrepreneurship Bootcamp,Coding,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Nagpur,RCOEM Nagpur,2408
+1340,Technology Seminar,Hackathon,Competitive and collaborative event exploring innovations in Technology.,Nagpur,IIT Delhi,4299
+1341,Robotics Seminar,Music,Join students and professionals for an immersive Robotics experience.,Delhi,IIT Delhi,2014
+1342,Blockchain Festival,Cultural,"Explore advanced concepts, projects, and future trends in Blockchain.",Kolkata,COEP Pune,803
+1343,Dance Hackathon,Gaming,Competitive and collaborative event exploring innovations in Dance.,Delhi,IIT Delhi,3786
+1344,Advanced IoT Workshop,Sports,Hands-on learning and networking opportunity focused on IoT.,Jaipur,PICT Pune,2603
+1345,AI Championship,Business,Hands-on learning and networking opportunity focused on AI.,Delhi,VIT Pune,3587
+1346,Startup Expo,Business,Hands-on learning and networking opportunity focused on Startup.,Jaipur,VNIT Nagpur,4749
+1347,Machine Learning Bootcamp,Business,Join students and professionals for an immersive Machine Learning experience.,Jaipur,BITS Pilani,4801
+1348,Startup Seminar,Gaming,Join students and professionals for an immersive Startup experience.,Pune,NIT Trichy,3265
+1349,Football Championship,Business,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Jaipur,IIT Delhi,2595
+1350,Coding Bootcamp,Seminar,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Mumbai,VNIT Nagpur,4102
+1351,AI Bootcamp,Workshop,Join students and professionals for an immersive AI experience.,Chennai,RCOEM Nagpur,1786
+1352,Cricket Research Talk,Workshop,"Explore advanced concepts, projects, and future trends in Cricket.",Kolkata,VNIT Nagpur,3119
+1353,Advanced Blockchain Workshop,Business,Join students and professionals for an immersive Blockchain experience.,Chennai,VIT Pune,1386
+1354,Hackathons Bootcamp,Gaming,"Explore advanced concepts, projects, and future trends in Hackathons.",Kolkata,IIT Bombay,3286
+1355,Football Bootcamp,Coding,Join students and professionals for an immersive Football experience.,Chennai,IIT Delhi,1400
+1356,Entrepreneurship Festival,Hackathon,Hands-on learning and networking opportunity focused on Entrepreneurship.,Delhi,NIT Trichy,3859
+1357,Gaming Hackathon,Sports,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Kolkata,IIT Bombay,3370
+1358,Entrepreneurship Hackathon,Business,"Explore advanced concepts, projects, and future trends in Entrepreneurship.",Jaipur,IIT Delhi,3869
+1359,Cloud Computing Festival,Workshop,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Bangalore,IIT Delhi,2940
+1360,Music Seminar,Sports,"Explore advanced concepts, projects, and future trends in Music.",Chennai,YCCE Nagpur,1571
+1361,Entrepreneurship Seminar,Gaming,Competitive and collaborative event exploring innovations in Entrepreneurship.,Mumbai,BITS Pilani,882
+1362,Advanced Startup Workshop,Sports,Join students and professionals for an immersive Startup experience.,Bangalore,NIT Trichy,2491
+1363,Coding Hackathon,Gaming,Competitive and collaborative event exploring innovations in Coding.,Ahmedabad,IIT Bombay,3120
+1364,Coding Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Coding.",Chennai,IIT Delhi,1450
+1365,Gaming Hackathon,Tech,"Explore advanced concepts, projects, and future trends in Gaming.",Kolkata,VNIT Nagpur,699
+1366,Cloud Computing Seminar,Gaming,Hands-on learning and networking opportunity focused on Cloud Computing.,Delhi,VIT Pune,409
+1367,AI Research Talk,Sports,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Hyderabad,IIT Delhi,4071
+1368,Cloud Computing Innovation Summit,Seminar,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Delhi,IIT Delhi,1248
+1369,Web Development Research Talk,Sports,Join students and professionals for an immersive Web Development experience.,Nagpur,BITS Pilani,923
+1370,Cybersecurity Research Talk,Seminar,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Chennai,PICT Pune,735
+1371,AI Research Talk,Cultural,Join students and professionals for an immersive AI experience.,Hyderabad,PICT Pune,1874
+1372,Machine Learning Expo,Cultural,Join students and professionals for an immersive Machine Learning experience.,Nagpur,NIT Trichy,942
+1373,Startup Research Talk,Tech,Competitive and collaborative event exploring innovations in Startup.,Jaipur,VNIT Nagpur,498
+1374,Startup Hackathon,Business,Join students and professionals for an immersive Startup experience.,Delhi,YCCE Nagpur,848
+1375,AI Seminar,Tech,Learn cutting edge concepts in AI with practical sessions and expert guidance.,Hyderabad,YCCE Nagpur,617
+1376,Cricket Innovation Summit,Sports,Join students and professionals for an immersive Cricket experience.,Nagpur,VIT Pune,4298
+1377,Hackathons Meetup,Seminar,Hands-on learning and networking opportunity focused on Hackathons.,Delhi,BITS Pilani,1796
+1378,IoT Seminar,Workshop,Competitive and collaborative event exploring innovations in IoT.,Delhi,YCCE Nagpur,967
+1379,Technology Meetup,Tech,Join students and professionals for an immersive Technology experience.,Chennai,COEP Pune,198
+1380,Startup Hackathon,Music,Competitive and collaborative event exploring innovations in Startup.,Pune,RCOEM Nagpur,3122
+1381,Machine Learning Innovation Summit,Gaming,Join students and professionals for an immersive Machine Learning experience.,Bangalore,BITS Pilani,4192
+1382,Hackathons Expo,Sports,"Explore advanced concepts, projects, and future trends in Hackathons.",Bangalore,IIT Bombay,2757
+1383,Startup Bootcamp,Sports,Hands-on learning and networking opportunity focused on Startup.,Hyderabad,IIT Delhi,653
+1384,Advanced Dance Workshop,Hackathon,"Explore advanced concepts, projects, and future trends in Dance.",Kolkata,VIT Pune,4286
+1385,Cricket Expo,Tech,"Explore advanced concepts, projects, and future trends in Cricket.",Delhi,VNIT Nagpur,1116
+1386,Music Hackathon,Music,Competitive and collaborative event exploring innovations in Music.,Jaipur,IIT Bombay,590
+1387,Robotics Meetup,Coding,Competitive and collaborative event exploring innovations in Robotics.,Delhi,PICT Pune,3178
+1388,Advanced Football Workshop,Hackathon,Join students and professionals for an immersive Football experience.,Kolkata,COEP Pune,1199
+1389,Gaming Meetup,Seminar,Learn cutting edge concepts in Gaming with practical sessions and expert guidance.,Chennai,RCOEM Nagpur,294
+1390,Cricket Meetup,Music,Hands-on learning and networking opportunity focused on Cricket.,Delhi,NIT Trichy,542
+1391,Cricket Hackathon,Gaming,"Explore advanced concepts, projects, and future trends in Cricket.",Ahmedabad,COEP Pune,1603
+1392,Advanced Cloud Computing Workshop,Cultural,Learn cutting edge concepts in Cloud Computing with practical sessions and expert guidance.,Pune,YCCE Nagpur,526
+1393,Robotics Hackathon,Workshop,Join students and professionals for an immersive Robotics experience.,Mumbai,BITS Pilani,4596
+1394,Football Hackathon,Workshop,"Explore advanced concepts, projects, and future trends in Football.",Chennai,IIT Delhi,2651
+1395,Cybersecurity Hackathon,Gaming,Join students and professionals for an immersive Cybersecurity experience.,Mumbai,BITS Pilani,2139
+1396,Music Research Talk,Cultural,"Explore advanced concepts, projects, and future trends in Music.",Delhi,RCOEM Nagpur,4041
+1397,Coding Meetup,Gaming,Competitive and collaborative event exploring innovations in Coding.,Mumbai,IIT Delhi,3715
+1398,Data Science Expo,Gaming,"Explore advanced concepts, projects, and future trends in Data Science.",Mumbai,IIT Delhi,262
+1399,Startup Seminar,Coding,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Jaipur,NIT Trichy,1351
+1400,IoT Bootcamp,Gaming,Hands-on learning and networking opportunity focused on IoT.,Kolkata,RCOEM Nagpur,3815
+1401,Music Seminar,Hackathon,"Explore advanced concepts, projects, and future trends in Music.",Kolkata,IIT Bombay,2829
+1402,Robotics Championship,Sports,Join students and professionals for an immersive Robotics experience.,Delhi,VNIT Nagpur,205
+1403,Blockchain Meetup,Gaming,Competitive and collaborative event exploring innovations in Blockchain.,Chennai,VIT Pune,3156
+1404,Startup Championship,Hackathon,Hands-on learning and networking opportunity focused on Startup.,Pune,VIT Pune,418
+1405,Hackathons Seminar,Sports,"Explore advanced concepts, projects, and future trends in Hackathons.",Delhi,VIT Pune,2191
+1406,Technology Expo,Business,Competitive and collaborative event exploring innovations in Technology.,Nagpur,VIT Pune,3573
+1407,Cricket Hackathon,Tech,Competitive and collaborative event exploring innovations in Cricket.,Hyderabad,VNIT Nagpur,1311
+1408,Gaming Festival,Sports,Competitive and collaborative event exploring innovations in Gaming.,Bangalore,YCCE Nagpur,4837
+1409,Advanced Cybersecurity Workshop,Workshop,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Chennai,VIT Pune,4901
+1410,Coding Expo,Gaming,Join students and professionals for an immersive Coding experience.,Mumbai,VIT Pune,2171
+1411,Music Expo,Gaming,"Explore advanced concepts, projects, and future trends in Music.",Jaipur,RCOEM Nagpur,3471
+1412,Coding Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Coding.",Mumbai,RCOEM Nagpur,1816
+1413,Startup Research Talk,Sports,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Kolkata,VNIT Nagpur,893
+1414,Coding Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Coding.",Bangalore,VIT Pune,1497
+1415,Cybersecurity Meetup,Sports,Join students and professionals for an immersive Cybersecurity experience.,Delhi,IIT Delhi,1590
+1416,Blockchain Innovation Summit,Hackathon,Competitive and collaborative event exploring innovations in Blockchain.,Delhi,PICT Pune,1746
+1417,Machine Learning Bootcamp,Coding,Join students and professionals for an immersive Machine Learning experience.,Chennai,IIT Delhi,994
+1418,Cybersecurity Innovation Summit,Workshop,Hands-on learning and networking opportunity focused on Cybersecurity.,Chennai,IIT Bombay,2367
+1419,Coding Meetup,Hackathon,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Delhi,IIT Delhi,4074
+1420,Advanced Hackathons Workshop,Coding,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Nagpur,BITS Pilani,442
+1421,Hackathons Hackathon,Tech,"Explore advanced concepts, projects, and future trends in Hackathons.",Chennai,BITS Pilani,4360
+1422,Gaming Championship,Business,Competitive and collaborative event exploring innovations in Gaming.,Jaipur,VIT Pune,2857
+1423,Technology Meetup,Music,Hands-on learning and networking opportunity focused on Technology.,Hyderabad,VIT Pune,3200
+1424,Advanced Entrepreneurship Workshop,Business,Hands-on learning and networking opportunity focused on Entrepreneurship.,Pune,VNIT Nagpur,3843
+1425,Startup Bootcamp,Hackathon,Learn cutting edge concepts in Startup with practical sessions and expert guidance.,Pune,NIT Trichy,2389
+1426,Cricket Meetup,Hackathon,Competitive and collaborative event exploring innovations in Cricket.,Kolkata,NIT Trichy,3484
+1427,Advanced Football Workshop,Tech,Hands-on learning and networking opportunity focused on Football.,Hyderabad,VNIT Nagpur,2766
+1428,Cloud Computing Hackathon,Cultural,"Explore advanced concepts, projects, and future trends in Cloud Computing.",Chennai,BITS Pilani,766
+1429,Technology Seminar,Workshop,Competitive and collaborative event exploring innovations in Technology.,Chennai,RCOEM Nagpur,1698
+1430,Robotics Expo,Seminar,"Explore advanced concepts, projects, and future trends in Robotics.",Nagpur,PICT Pune,4179
+1431,Coding Research Talk,Cultural,"Explore advanced concepts, projects, and future trends in Coding.",Mumbai,IIT Delhi,1047
+1432,Web Development Expo,Music,Join students and professionals for an immersive Web Development experience.,Delhi,PICT Pune,832
+1433,Hackathons Seminar,Sports,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Hyderabad,VIT Pune,2396
+1434,Cricket Research Talk,Workshop,Competitive and collaborative event exploring innovations in Cricket.,Mumbai,NIT Trichy,4130
+1435,Coding Meetup,Hackathon,Join students and professionals for an immersive Coding experience.,Jaipur,IIT Bombay,2911
+1436,Startup Seminar,Gaming,"Explore advanced concepts, projects, and future trends in Startup.",Delhi,YCCE Nagpur,2222
+1437,Hackathons Research Talk,Workshop,Learn cutting edge concepts in Hackathons with practical sessions and expert guidance.,Pune,COEP Pune,4951
+1438,Football Innovation Summit,Business,"Explore advanced concepts, projects, and future trends in Football.",Mumbai,COEP Pune,3214
+1439,Advanced UI UX Workshop,Tech,Hands-on learning and networking opportunity focused on UI UX.,Jaipur,NIT Trichy,1655
+1440,Startup Seminar,Business,Hands-on learning and networking opportunity focused on Startup.,Mumbai,NIT Trichy,4939
+1441,Cricket Innovation Summit,Tech,Competitive and collaborative event exploring innovations in Cricket.,Ahmedabad,IIT Delhi,2688
+1442,Robotics Research Talk,Cultural,Join students and professionals for an immersive Robotics experience.,Kolkata,PICT Pune,2421
+1443,Advanced Robotics Workshop,Business,"Explore advanced concepts, projects, and future trends in Robotics.",Bangalore,NIT Trichy,1111
+1444,Gaming Festival,Music,Competitive and collaborative event exploring innovations in Gaming.,Kolkata,RCOEM Nagpur,3185
+1445,Machine Learning Meetup,Music,Join students and professionals for an immersive Machine Learning experience.,Delhi,VNIT Nagpur,1566
+1446,Web Development Seminar,Sports,Hands-on learning and networking opportunity focused on Web Development.,Nagpur,NIT Trichy,3313
+1447,Dance Seminar,Business,Competitive and collaborative event exploring innovations in Dance.,Chennai,VIT Pune,688
+1448,Blockchain Research Talk,Music,Hands-on learning and networking opportunity focused on Blockchain.,Ahmedabad,VIT Pune,897
+1449,Robotics Meetup,Tech,"Explore advanced concepts, projects, and future trends in Robotics.",Bangalore,IIT Delhi,1440
+1450,UI UX Bootcamp,Cultural,Competitive and collaborative event exploring innovations in UI UX.,Bangalore,PICT Pune,1818
+1451,Football Hackathon,Business,Learn cutting edge concepts in Football with practical sessions and expert guidance.,Jaipur,IIT Bombay,1309
+1452,Startup Seminar,Tech,Join students and professionals for an immersive Startup experience.,Pune,COEP Pune,3981
+1453,Advanced Cybersecurity Workshop,Seminar,Learn cutting edge concepts in Cybersecurity with practical sessions and expert guidance.,Hyderabad,BITS Pilani,3653
+1454,Robotics Seminar,Tech,Join students and professionals for an immersive Robotics experience.,Pune,YCCE Nagpur,3349
+1455,Web Development Research Talk,Sports,"Explore advanced concepts, projects, and future trends in Web Development.",Chennai,IIT Bombay,3898
+1456,Startup Research Talk,Business,Competitive and collaborative event exploring innovations in Startup.,Nagpur,IIT Bombay,1055
+1457,Coding Innovation Summit,Seminar,Competitive and collaborative event exploring innovations in Coding.,Delhi,VNIT Nagpur,4907
+1458,UI UX Festival,Coding,Competitive and collaborative event exploring innovations in UI UX.,Pune,BITS Pilani,1583
+1459,Startup Championship,Coding,Competitive and collaborative event exploring innovations in Startup.,Jaipur,PICT Pune,914
+1460,Dance Innovation Summit,Sports,"Explore advanced concepts, projects, and future trends in Dance.",Chennai,VNIT Nagpur,3325
+1461,IoT Expo,Cultural,"Explore advanced concepts, projects, and future trends in IoT.",Pune,NIT Trichy,4890
+1462,IoT Innovation Summit,Workshop,Join students and professionals for an immersive IoT experience.,Mumbai,BITS Pilani,1574
+1463,AI Expo,Business,Competitive and collaborative event exploring innovations in AI.,Pune,VNIT Nagpur,1155
+1464,UI UX Hackathon,Workshop,Join students and professionals for an immersive UI UX experience.,Ahmedabad,RCOEM Nagpur,386
+1465,Coding Innovation Summit,Coding,"Explore advanced concepts, projects, and future trends in Coding.",Hyderabad,NIT Trichy,1505
+1466,Advanced Data Science Workshop,Coding,Join students and professionals for an immersive Data Science experience.,Nagpur,NIT Trichy,2503
+1467,IoT Championship,Hackathon,Join students and professionals for an immersive IoT experience.,Kolkata,COEP Pune,4381
+1468,Technology Festival,Seminar,"Explore advanced concepts, projects, and future trends in Technology.",Delhi,IIT Bombay,466
+1469,Advanced Cricket Workshop,Sports,Join students and professionals for an immersive Cricket experience.,Bangalore,YCCE Nagpur,1199
+1470,Entrepreneurship Expo,Hackathon,Join students and professionals for an immersive Entrepreneurship experience.,Hyderabad,RCOEM Nagpur,1152
+1471,Entrepreneurship Seminar,Seminar,Learn cutting edge concepts in Entrepreneurship with practical sessions and expert guidance.,Bangalore,RCOEM Nagpur,3227
+1472,Cybersecurity Seminar,Workshop,Competitive and collaborative event exploring innovations in Cybersecurity.,Bangalore,VIT Pune,1273
+1473,IoT Hackathon,Coding,Learn cutting edge concepts in IoT with practical sessions and expert guidance.,Delhi,COEP Pune,4717
+1474,Blockchain Festival,Gaming,Join students and professionals for an immersive Blockchain experience.,Mumbai,COEP Pune,3652
+1475,Advanced Startup Workshop,Music,"Explore advanced concepts, projects, and future trends in Startup.",Pune,RCOEM Nagpur,1120
+1476,IoT Innovation Summit,Gaming,"Explore advanced concepts, projects, and future trends in IoT.",Pune,COEP Pune,828
+1477,Technology Meetup,Sports,Hands-on learning and networking opportunity focused on Technology.,Delhi,RCOEM Nagpur,180
+1478,Hackathons Seminar,Gaming,Join students and professionals for an immersive Hackathons experience.,Pune,IIT Bombay,1539
+1479,Blockchain Research Talk,Cultural,"Explore advanced concepts, projects, and future trends in Blockchain.",Pune,NIT Trichy,2958
+1480,UI UX Research Talk,Coding,"Explore advanced concepts, projects, and future trends in UI UX.",Jaipur,IIT Bombay,492
+1481,Cybersecurity Meetup,Sports,Competitive and collaborative event exploring innovations in Cybersecurity.,Hyderabad,NIT Trichy,4619
+1482,Entrepreneurship Seminar,Hackathon,Competitive and collaborative event exploring innovations in Entrepreneurship.,Mumbai,RCOEM Nagpur,177
+1483,Blockchain Bootcamp,Sports,Join students and professionals for an immersive Blockchain experience.,Chennai,BITS Pilani,2290
+1484,Machine Learning Meetup,Hackathon,Join students and professionals for an immersive Machine Learning experience.,Chennai,IIT Delhi,1599
+1485,Cloud Computing Meetup,Seminar,Competitive and collaborative event exploring innovations in Cloud Computing.,Bangalore,RCOEM Nagpur,3604
+1486,Blockchain Hackathon,Workshop,Hands-on learning and networking opportunity focused on Blockchain.,Bangalore,VIT Pune,2661
+1487,Coding Innovation Summit,Music,Learn cutting edge concepts in Coding with practical sessions and expert guidance.,Pune,PICT Pune,4812
+1488,Machine Learning Innovation Summit,Seminar,Hands-on learning and networking opportunity focused on Machine Learning.,Kolkata,VNIT Nagpur,3573
+1489,Blockchain Bootcamp,Cultural,Competitive and collaborative event exploring innovations in Blockchain.,Ahmedabad,NIT Trichy,1121
+1490,Advanced Startup Workshop,Music,"Explore advanced concepts, projects, and future trends in Startup.",Nagpur,VIT Pune,4477
+1491,Technology Hackathon,Hackathon,"Explore advanced concepts, projects, and future trends in Technology.",Nagpur,BITS Pilani,3775
+1492,Cybersecurity Expo,Sports,Join students and professionals for an immersive Cybersecurity experience.,Pune,COEP Pune,1192
+1493,Blockchain Meetup,Gaming,Learn cutting edge concepts in Blockchain with practical sessions and expert guidance.,Kolkata,VIT Pune,1496
+1494,Technology Innovation Summit,Music,Hands-on learning and networking opportunity focused on Technology.,Ahmedabad,IIT Bombay,2476
+1495,Music Championship,Coding,Hands-on learning and networking opportunity focused on Music.,Delhi,VNIT Nagpur,4759
+1496,Startup Hackathon,Seminar,Hands-on learning and networking opportunity focused on Startup.,Nagpur,IIT Delhi,4099
+1497,Machine Learning Meetup,Hackathon,Learn cutting edge concepts in Machine Learning with practical sessions and expert guidance.,Kolkata,COEP Pune,2544
+1498,Technology Innovation Summit,Business,Learn cutting edge concepts in Technology with practical sessions and expert guidance.,Mumbai,VIT Pune,3004
+1499,AI Innovation Summit,Cultural,Competitive and collaborative event exploring innovations in AI.,Delhi,IIT Bombay,4434
+1500,Blockchain Bootcamp,Workshop,Competitive and collaborative event exploring innovations in Blockchain.,Kolkata,VNIT Nagpur,1374

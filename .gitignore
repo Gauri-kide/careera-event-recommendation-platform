@@ -1,0 +1,38 @@
+# --- Python (backend) ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# --- Node (frontend) ---
+node_modules/
+dist/
+dist-ssr/
+.output/
+.vinxi/
+.tanstack/
+.nitro/
+.wrangler/
+*.local
+bun.lock
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Editor / IDE ---
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# --- Misc project junk ---
+*.zip
+event-ai-platform.zip
+
+# --- Large ML artifacts (optional: keep small ones, ignore big ones) ---
+backend/models/user_item_matrix.pkl
+backend/models/user_similarity.pkl
